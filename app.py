@@ -1,9 +1,12 @@
 import pandas as pd
 import plotly.express as px
 from dash import html, Dash, dcc, Input, Output, callback
+import os
 
 df = pd.read_csv("all_losses.csv")
 app = Dash(__name__)
+
+server = app.server
 
 axis_options = df.columns.to_list()[5:16]
 

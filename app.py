@@ -10,6 +10,10 @@ axis_options = df.columns.to_list()[5:16]
 app.layout = html.Div([
     html.H1(children="Visualization of visually confirmed russo-ukrainian equipment losses in 2022"),
     html.Hr(),
+    html.H3(children="More information"),
+    dcc.Link(children="Based on this dataset", href="https://www.kaggle.com/datasets/piterfm/2022-ukraine-russia-war-equipment-losses-oryx?select=losses_ukraine.csv"),
+    dcc.Link(children="Github page", href="https://github.com/Jatynjala/Visualization_project"),
+    html.Hr(),
     html.H3(children="Select a subset of data"),
     html.H5(children="Equipment type"),
     dcc.Dropdown(df["equipment"].unique().tolist(), multi=True, id="equipment"),

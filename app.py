@@ -12,6 +12,7 @@ app.layout = html.Div([
     html.Hr(),
     html.H3(children="More information"),
     dcc.Link(children="Based on this dataset", href="https://www.kaggle.com/datasets/piterfm/2022-ukraine-russia-war-equipment-losses-oryx?select=losses_ukraine.csv"),
+    html.br(),
     dcc.Link(children="Github page", href="https://github.com/Jatynjala/Visualization_project"),
     html.Hr(),
     html.H3(children="Select a subset of data"),

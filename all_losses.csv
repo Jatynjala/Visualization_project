@@ -1,0 +1,803 @@
+,Unnamed: 0,equipment,model,manufacturer,losses_total,abandoned,abandoned and destroyed,captured,captured and destroyed,damaged,damaged and abandoned,damaged and captured,damaged beyond economical repair,destroyed,sunk,lost_by
+0,0,Tanks,"Unknown T-54/55 (1, destroyed)",the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+1,1,Tanks,T-55A,the Soviet Union,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,russia
+2,2,Tanks,T-62 Obr. 1967,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+3,3,Tanks,T-62M,the Soviet Union,64,0.0,0.0,30.0,0.0,5.0,0.0,5.0,0.0,24.0,0.0,russia
+4,4,Tanks,T-62M Obr. 2022,Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+5,5,Tanks,T-62MV,the Soviet Union,15,0.0,0.0,8.0,0.0,1.0,1.0,1.0,0.0,4.0,0.0,russia
+6,6,Tanks,T-62MV Obr. 2022,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+7,7,Tanks,T-64A,the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+8,8,Tanks,T-64BV,the Soviet Union,63,2.0,0.0,4.0,0.0,5.0,0.0,1.0,0.0,51.0,0.0,russia
+9,9,Tanks,T-72 'Ural',the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,russia
+10,10,Tanks,T-72A,the Soviet Union,41,1.0,0.0,11.0,0.0,1.0,4.0,0.0,0.0,24.0,0.0,russia
+11,11,Tanks,T-72AV,the Soviet Union,12,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,8.0,0.0,russia
+12,12,Tanks,T-72B,the Soviet Union,306,10.0,0.0,62.0,3.0,7.0,11.0,7.0,0.0,205.0,0.0,russia
+13,13,Tanks,T-72B Obr. 1989,the Soviet Union,92,3.0,1.0,17.0,0.0,2.0,5.0,3.0,0.0,60.0,0.0,russia
+14,14,Tanks,T-72B Obr. 2022,Russia,6,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,3.0,0.0,russia
+15,15,Tanks,T-72BA,Russia,29,0.0,0.0,15.0,0.0,2.0,0.0,1.0,0.0,11.0,0.0,russia
+16,16,Tanks,T-72B3,Russia,342,5.0,0.0,73.0,2.0,23.0,16.0,12.0,0.0,211.0,0.0,russia
+17,17,Tanks,T-72B3 Obr. 2014,Russia,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+18,18,Tanks,T-72B3 Obr. 2016,Russia,239,2.0,3.0,93.0,0.0,4.0,1.0,10.0,0.0,126.0,0.0,russia
+19,19,Tanks,T-72B3 Obr. 2022,Russia,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,russia
+20,20,Tanks,Unknown T-72,Russia,122,1.0,0.0,4.0,0.0,17.0,1.0,0.0,0.0,99.0,0.0,russia
+21,21,Tanks,T-80B,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+22,22,Tanks,T-80BV,the Soviet Union,406,8.0,1.0,77.0,0.0,19.0,28.0,7.0,0.0,266.0,0.0,russia
+23,23,Tanks,T-80BV Obr. 2022,Russia,7,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,6.0,0.0,russia
+24,24,Tanks,T-80U,Russia,94,6.0,3.0,39.0,0.0,1.0,0.0,5.0,0.0,38.0,0.0,russia
+25,25,Tanks,T-80UK,Russia,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+26,26,Tanks,T-80UE-1,Russia,6,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+27,27,Tanks,T-80UM2,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+28,28,Tanks,T-80BVM,Russia,98,0.0,0.0,28.0,1.0,5.0,2.0,4.0,0.0,57.0,0.0,russia
+29,29,Tanks,T-80BVM Obr. 2022,Russia,5,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,4.0,0.0,russia
+30,30,Tanks,Unknown T-80,Russia,8,1.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,4.0,0.0,russia
+31,31,Tanks,T-90A,Russia,34,1.0,1.0,10.0,0.0,1.0,1.0,0.0,0.0,20.0,0.0,russia
+32,32,Tanks,T-90AK,Russia,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+33,33,Tanks,T-90S,Russia,7,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,5.0,0.0,russia
+34,34,Tanks,T-90M,Russia,40,0.0,0.0,3.0,0.0,7.0,7.0,0.0,0.0,23.0,0.0,russia
+35,35,Tanks,Unknown tank,Russia,272,4.0,0.0,0.0,0.0,24.0,9.0,0.0,0.0,235.0,0.0,russia
+36,36,Armoured Fighting Vehicles,BMPT Terminator,Russia,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,russia
+37,37,Armoured Fighting Vehicles,BRM-1(K) reconnaissance vehicle,the Soviet Union,25,0.0,0.0,9.0,0.0,1.0,1.0,0.0,0.0,14.0,0.0,russia
+38,38,Armoured Fighting Vehicles,BRM-1K Obr. 2021,Russia,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+39,39,Armoured Fighting Vehicles,BRDM-2,the Soviet Union,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,russia
+40,40,Armoured Fighting Vehicles,BRDM-2M/A,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+41,41,Armoured Fighting Vehicles,BRDM-2RKhb chemical reconnaissance vehicle,the Soviet Union,2,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+42,42,Armoured Fighting Vehicles,BRDM-2-based ZS-82 PsyOps vehicle,the Soviet Union,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+43,43,Armoured Fighting Vehicles,BTR-80-based ZS-88 PsyOps vehicle,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+44,44,Armoured Fighting Vehicles,BTR-80 with 57mm UB-32 unguided aircraft rocket pods,the Soviet Union,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,russia
+45,45,Armoured Fighting Vehicles,MT-LB,the Soviet Union,482,19.0,0.0,131.0,1.0,11.0,4.0,7.0,0.0,309.0,0.0,russia
+46,46,Armoured Fighting Vehicles,MT-LBVM and MT-LBVMK,the Soviet Union,184,8.0,0.0,90.0,0.0,1.0,0.0,3.0,0.0,82.0,0.0,russia
+47,47,Armoured Fighting Vehicles,MT-LB with ZU-23 AA gun,the Soviet Union,33,0.0,0.0,11.0,0.0,1.0,0.0,0.0,0.0,21.0,0.0,russia
+48,48,Armoured Fighting Vehicles,MT-LB With 14.5mm BPU-1 Turret,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+49,49,Armoured Fighting Vehicles,MT-LB with 14.5mm 2M-7 naval gun mount,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+50,50,Armoured Fighting Vehicles,MT-LB with AZP S-60 AA gun,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+51,51,Armoured Fighting Vehicles,MT-LB with 100mm MT-12 anti-tank gun,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+52,52,Armoured Fighting Vehicles,MT-LB with 82-mm automatic mortar 2B9 Vasilek,the Soviet Union,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,russia
+53,53,Armoured Fighting Vehicles,MT-LBu,the Soviet Union,16,1.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,russia
+54,54,Armoured Fighting Vehicles,Vityaz DT-10PM articulated tracked carrier,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+55,55,Armoured Fighting Vehicles,Vityaz DT-30 articulated tracked carrier,Russia,4,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,russia
+56,56,Armoured Fighting Vehicles,GAZ-3344-20 'Aleut' articulated tracked carrier,Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+57,57,Armoured Fighting Vehicles,2S1 with ZU-23 AA gun,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+58,58,Armoured Fighting Vehicles,Unknown BTR-D/BMD-2,the Soviet Union,11,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,russia
+59,59,Armoured Fighting Vehicles,BMM-80 ambulance,the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+60,60,Armoured Fighting Vehicles,Unknown AFV,Russia,202,2.0,0.0,2.0,0.0,11.0,0.0,0.0,0.0,187.0,0.0,russia
+61,61,Infantry Fighting Vehicles,BMP-1(P),the Soviet Union,517,13.0,0.0,83.0,1.0,26.0,27.0,8.0,0.0,359.0,0.0,russia
+62,62,Infantry Fighting Vehicles,BMP-1AM,Russia,35,2.0,0.0,4.0,1.0,3.0,4.0,3.0,0.0,18.0,0.0,russia
+63,63,Infantry Fighting Vehicles,BMP-2(K),the Soviet Union,979,33.0,0.0,222.0,0.0,22.0,30.0,24.0,0.0,648.0,0.0,russia
+64,64,Infantry Fighting Vehicles,BMP-2(K),the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+65,65,Infantry Fighting Vehicles,BMP-2M Berezhok,Russia,23,0.0,0.0,7.0,0.0,1.0,0.0,1.0,0.0,14.0,0.0,russia
+66,66,Infantry Fighting Vehicles,BMP-2 675-sb3KDZ,Russia,10,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,8.0,0.0,russia
+67,67,Infantry Fighting Vehicles,Unknown BMP-1/2,the Soviet Union,127,1.0,0.0,0.0,0.0,3.0,3.0,0.0,0.0,120.0,0.0,russia
+68,68,Infantry Fighting Vehicles,BMP-3,Russia,283,10.0,0.0,54.0,0.0,21.0,8.0,8.0,0.0,182.0,0.0,russia
+69,69,Infantry Fighting Vehicles,BMP-3 688M sb. 3KDZ,Russia,18,0.0,0.0,1.0,0.0,3.0,3.0,0.0,0.0,11.0,0.0,russia
+70,70,Infantry Fighting Vehicles,MT-LBM 6MB,Russia,14,1.0,0.0,2.0,0.0,2.0,0.0,1.0,0.0,8.0,0.0,russia
+71,71,Infantry Fighting Vehicles,BMD-2,the Soviet Union,227,5.0,0.0,47.0,0.0,7.0,2.0,3.0,0.0,161.0,0.0,russia
+72,72,Infantry Fighting Vehicles,BMD-2,the Soviet Union,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+73,73,Infantry Fighting Vehicles,BMD-2,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+74,74,Infantry Fighting Vehicles,BMD-4M,Russia,87,0.0,0.0,9.0,0.0,3.0,1.0,2.0,0.0,72.0,0.0,russia
+75,75,Infantry Fighting Vehicles,BMD-4M,Russia,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+76,76,Infantry Fighting Vehicles,BTR-82A(M),Russia,493,5.0,0.0,120.0,0.0,19.0,5.0,7.0,0.0,336.0,0.0,russia
+77,77,Armoured Personnel Carriers,BTR-60PB,the Soviet Union,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,russia
+78,78,Armoured Personnel Carriers,BTR-70,the Soviet Union,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,russia
+79,79,Armoured Personnel Carriers,BTR-70M,Russia,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+80,80,Armoured Personnel Carriers,BTR-80,the Soviet Union,174,5.0,0.0,55.0,0.0,1.0,0.0,2.0,0.0,111.0,0.0,russia
+81,81,Armoured Personnel Carriers,Unknown BTR-80/BTR-82A,Russia,50,2.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,43.0,0.0,russia
+82,82,Armoured Personnel Carriers,Remdiesel Z-STS Akhmat,Russia,11,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,8.0,0.0,russia
+83,83,Armoured Personnel Carriers,Ural-VV,Russia,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,russia
+84,84,Armoured Personnel Carriers,BTR-D,the Soviet Union,80,5.0,0.0,20.0,1.0,0.0,1.0,2.0,0.0,51.0,0.0,russia
+85,85,Armoured Personnel Carriers,BTR-MDM Rakushka,Russia,23,0.0,0.0,8.0,0.0,2.0,0.0,0.0,0.0,13.0,0.0,russia
+86,86,Armoured Personnel Carriers,BMO-T,Russia,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,russia
+87,87,Mine-Resistant Ambush Protected,KamAZ-63968 Typhoon,Russia,26,0.0,0.0,5.0,0.0,2.0,1.0,0.0,0.0,18.0,0.0,russia
+88,88,Mine-Resistant Ambush Protected,KamAZ-435029 Patrol-A,Russia,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,russia
+89,89,Mine-Resistant Ambush Protected,K-53949 Typhoon-K,Russia,8,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,russia
+90,90,Mine-Resistant Ambush Protected,K-53949 Linza,Russia,11,0.0,0.0,2.0,0.0,1.0,0.0,1.0,0.0,7.0,0.0,russia
+91,91,Infantry Mobility Vehicles,BPM-97 Vystrel,Russia,4,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+92,92,Infantry Mobility Vehicles,GAZ Tigr,Russia,15,1.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,russia
+93,93,Infantry Mobility Vehicles,GAZ Tigr-M,Russia,144,0.0,0.0,29.0,0.0,6.0,0.0,2.0,0.0,107.0,0.0,russia
+94,94,Infantry Mobility Vehicles,GAZ Tigr-M,Russia,8,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,russia
+95,95,Infantry Mobility Vehicles,AMN-590951,Russia,8,0.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,4.0,0.0,russia
+96,96,Infantry Mobility Vehicles,Iveco LMV Rys,Italy,31,0.0,1.0,1.0,0.0,1.0,0.0,4.0,0.0,24.0,0.0,russia
+97,97,Infantry Mobility Vehicles,GAZ-3937 Vodnik,Russia,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+98,98,Command Posts And Communications Stations,BMP-1KSh command and staff vehicle,the Soviet Union,12,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,russia
+99,99,Command Posts And Communications Stations,BMD-1KSh-A command vehicle,the Soviet Union,12,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,russia
+100,100,Command Posts And Communications Stations,BTR-60PU-12command vehicle,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+101,101,Command Posts And Communications Stations,R-145BM command vehicle,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+102,102,Command Posts And Communications Stations,R-145BM1 command vehicle,the Soviet Union,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,russia
+103,103,Command Posts And Communications Stations,R-145BMA command vehicle,Russia,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+104,104,Command Posts And Communications Stations,R-142NSA command and signals vehicle,the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+105,105,Command Posts And Communications Stations,R-149MA1 command and staff vehicle,Russia,80,1.0,0.0,28.0,0.0,2.0,1.0,2.0,0.0,46.0,0.0,russia
+106,106,Command Posts And Communications Stations,R-149MA3 command and staff vehicle,Russia,36,0.0,0.0,18.0,0.0,0.0,0.0,4.0,0.0,14.0,0.0,russia
+107,107,Command Posts And Communications Stations,R-149MA3 command and staff vehicle,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+108,108,Command Posts And Communications Stations,APE-5 command post,Russia,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,russia
+109,109,Command Posts And Communications Stations,MSh-5350.1 command vehicle,Russia,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+110,110,Command Posts And Communications Stations,9S470M1 (or variant thereof) command post (for Buk-M1/2),Russia,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+111,111,Command Posts And Communications Stations,Barnaul-T 9С932-1 automated system for air defence units,Russia,6,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+112,112,Command Posts And Communications Stations,"9S932-2 intelligence, control and command vehicle (for Barnaul-T)",Russia,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+113,113,Command Posts And Communications Stations,Command vehicle for Podlet-K1 low-altitude S-band surveillance radar,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+114,114,Command Posts And Communications Stations,55K6A command post for S-400,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+115,115,Command Posts And Communications Stations,R-149AKSh-1 command and signals vehicle,Russia,18,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,17.0,0.0,russia
+116,116,Command Posts And Communications Stations,R-149BMRg command and signals vehicle,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+117,117,Command Posts And Communications Stations,R-161 signals vehicle,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+118,118,Command Posts And Communications Stations,R-166-0.5 signals vehicle,Russia,23,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,17.0,0.0,russia
+119,119,Command Posts And Communications Stations,P-240 digital communications vehicle,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+120,120,Command Posts And Communications Stations,P-260 Redut-2US communication system,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+121,121,Command Posts And Communications Stations,P-260-U signals vehicle (for Redut-2US signal and communications system),Russia,1,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+122,122,Command Posts And Communications Stations,R-431AM antenna module for the Redut-2US communications system,Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+123,123,Command Posts And Communications Stations,R-419L1 communications station,Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+124,124,Command Posts And Communications Stations,MP-1IM signals vehicle,Russia,10,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,russia
+125,125,Command Posts And Communications Stations,MP-2IM signals vehicle,Russia,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+126,126,Command Posts And Communications Stations,R-439-MD2 SatCom Station,Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+127,127,Command Posts And Communications Stations,R-441 SatCom station,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+128,128,Command Posts And Communications Stations,Auriga-1.2V portable satellite communications station,Russia,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+129,129,Command Posts And Communications Stations,R-381T2M radio monitoring station from a modernised R-381TM Taran-M automatic signals intelligence complex,Russia,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,russia
+130,130,Command Posts And Communications Stations,Orlan-10 UAV control station,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+131,131,Command Posts And Communications Stations,Lancet loitering munition launcher and control station,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+132,132,Command Posts And Communications Stations,P-230T command vehicle,Russia,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,russia
+133,133,Command Posts And Communications Stations,MPUS-K mobile command post,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+134,134,Command Posts And Communications Stations,Unknown communications station based on the KamAZ 6x6,Russia,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,russia
+135,135,Command Posts And Communications Stations,Unknown communications station,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+136,136,Engineering Vehicles And Equipment,UR-67 mine clearing charge on BTR-D APC,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+137,137,Engineering Vehicles And Equipment,UR-77 'Meteorit'  mine clearing vehicle,the Soviet Union,30,1.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,russia
+138,138,Engineering Vehicles And Equipment,GMZ-3 minelayer,the Soviet Union,4,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+139,139,Engineering Vehicles And Equipment,RKhM-6 Povozka CBRN reconnaissance vehicle,Russia,8,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,russia
+140,140,Engineering Vehicles And Equipment,RKhM-6 Povozka CBRN reconnaissance vehicle,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+141,141,Engineering Vehicles And Equipment,BAT-2 heavy engineering vehicle,the Soviet Union,7,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,russia
+142,142,Engineering Vehicles And Equipment,MDK-3 trench-digging vehicle,the Soviet Union,3,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,russia
+143,143,Engineering Vehicles And Equipment,PZM-2 trench-digging vehicle,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+144,144,Engineering Vehicles And Equipment,BTS-4A armoured recovery vehicle,the Soviet Union,4,1.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,russia
+145,145,Engineering Vehicles And Equipment,BREM-1 armoured recovery vehicle,the Soviet Union,39,4.0,0.0,17.0,0.0,0.0,1.0,0.0,0.0,17.0,0.0,russia
+146,146,Engineering Vehicles And Equipment,BREM-2 armoured recovery vehicle,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+147,147,Engineering Vehicles And Equipment,BREM-Ch ''BREM-4'' armoured recovery vehicle,the Czech Republic,4,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+148,148,Engineering Vehicles And Equipment,BREM-D armoured recovery vehicle,Russia,3,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+149,149,Engineering Vehicles And Equipment,BREM-K armoured recovery vehicle,Russia,3,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+150,150,Engineering Vehicles And Equipment,REM-KL recovery vehicle,Russia,9,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,7.0,0.0,russia
+151,151,Engineering Vehicles And Equipment,BREM-L armoured recovery vehicle,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+152,152,Engineering Vehicles And Equipment,MTP-A2 recovery vehicle,Russia,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+153,153,Engineering Vehicles And Equipment,MTP-A2.1 recovery vehicle,Russia,4,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+154,154,Engineering Vehicles And Equipment,Ural-4320 KET-L recovery vehicle,Russia,3,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+155,155,Engineering Vehicles And Equipment,Ural-4320 KT-L recovery vehicle,Russia,5,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,russia
+156,156,Engineering Vehicles And Equipment,KrAZ-260 KT-L recovery vehicle,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+157,157,Engineering Vehicles And Equipment,IMR-2(M) combat engineering vehicle,the Soviet Union,29,3.0,1.0,11.0,0.0,1.0,1.0,1.0,0.0,11.0,0.0,russia
+158,158,Engineering Vehicles And Equipment,IMR-3M combat engineering vehicle,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,russia
+159,159,Engineering Vehicles And Equipment,PTS-2  tracked amphibious transport,the Soviet Union,16,3.0,0.0,4.0,0.0,0.0,1.0,0.0,0.0,8.0,0.0,russia
+160,160,Engineering Vehicles And Equipment,MTU-72 bridge layer,Russia,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+161,161,Engineering Vehicles And Equipment,TMM-3 bridge layer,the Soviet Union,28,1.0,0.0,13.0,0.0,0.0,0.0,4.0,0.0,10.0,0.0,russia
+162,162,Engineering Vehicles And Equipment,PMP floating bridge,the Soviet Union,12,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,9.0,0.0,russia
+163,163,Engineering Vehicles And Equipment,PP-2005 floating bridge,Russia,29,9.0,0.0,4.0,0.0,0.0,4.0,0.0,0.0,12.0,0.0,russia
+164,164,Engineering Vehicles And Equipment,Pontoon bridge,Russia,10,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,russia
+165,165,Engineering Vehicles And Equipment,BMK-130M/BMK-150 towing and motor boat,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+166,166,Engineering Vehicles And Equipment,BMK-460 towing and motor boat,the Soviet Union,9,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+167,167,Engineering Vehicles And Equipment,BMK-MT towing and motor boat,the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+168,168,Engineering Vehicles And Equipment,BMK-MO towing and motor boat,the Soviet Union,3,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,russia
+169,169,Engineering Vehicles And Equipment,KrAZ-255B with excavator,the Soviet Union,4,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,russia
+170,170,Engineering Vehicles And Equipment,KamAZ-5350 with EOV-3523 excavator,Russia,18,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,13.0,0.0,russia
+171,171,Engineering Vehicles And Equipment,KamAZ-5350 with KS-45719-7M crane,Russia,7,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,russia
+172,172,Engineering Vehicles And Equipment,Ural-4320 with KS-3574M3 or KS-3574M crane,Russia,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,russia
+173,173,Engineering Vehicles And Equipment,Ural-375D with 8T210 crane,Russia,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+174,174,Engineering Vehicles And Equipment,KamAZ-63501 with KS-55729-7M 32-ton crane,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+175,175,Engineering Vehicles And Equipment,KamAZ KMV-10V boom crane truck,Russia,6,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,russia
+176,176,Engineering Vehicles And Equipment,Ural-4320 with EOV-3521 excavator,Russia,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,russia
+177,177,Engineering Vehicles And Equipment,ED2x30-T400-3RA mobile generator,Russia,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,russia
+178,178,Engineering Vehicles And Equipment,Mobile generator for Podlet-K1 low-altitude S-band surveillance radar,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+179,179,Engineering Vehicles And Equipment,MTO-UB1 maintenance vehicle,Russia,3,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+180,180,Engineering Vehicles And Equipment,MTO-UB2 maintenance vehicle,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+181,181,Engineering Vehicles And Equipment,MTO-AT mobile workshop,Russia,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+182,182,Engineering Vehicles And Equipment,MTO-AG-3M mobile workshop,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+183,183,Engineering Vehicles And Equipment,ARS-14 decontamination and degassing vehicle,Russia,3,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+184,184,Engineering Vehicles And Equipment,Uran-6 mine-clearing robotic system,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+185,185,Engineering Vehicles And Equipment,ISDM Zemledeliye remote mine-laying system,Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+186,186,Engineering Vehicles And Equipment,ZiL-131 UMZ mine laying vehicle,Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+187,187,Engineering Vehicles And Equipment,TDA-3 mobile smoke generator,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+188,188,Engineering Vehicles And Equipment,APA-80 engine starting vehicle,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+189,189,Engineering Vehicles And Equipment,MZA-M.1 battery charge and repair workshop,the Soviet Union,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+190,190,Self-Propelled Anti-Tank Missile Systems,9P148 Konkurs,the Soviet Union,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,russia
+191,191,Self-Propelled Anti-Tank Missile Systems,9P149 Shturm-S,the Soviet Union,36,4.0,0.0,18.0,0.0,1.0,0.0,0.0,0.0,13.0,0.0,russia
+192,192,Self-Propelled Anti-Tank Missile Systems,9P163M-1 Kornet-T,Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+193,193,Artillery Support Vehicles And Equipment,1V110 BM-21 Grad battery command vehicle,the Soviet Union,1,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+194,194,Artillery Support Vehicles And Equipment,1V13(M) battery fire control center,the Soviet Union,21,1.0,2.0,11.0,0.0,0.0,0.0,1.0,0.0,6.0,0.0,russia
+195,195,Artillery Support Vehicles And Equipment,1V14 battery command and forward observer vehicle,the Soviet Union,19,1.0,0.0,12.0,0.0,0.0,0.0,1.0,0.0,5.0,0.0,russia
+196,196,Artillery Support Vehicles And Equipment,1V15M fire control and observation vehicle,the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+197,197,Artillery Support Vehicles And Equipment,1V16 battalion fire direction vehicle,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+198,198,Artillery Support Vehicles And Equipment,1V18 'Klyon-1' artillery command and forward observer vehicle,the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+199,199,Artillery Support Vehicles And Equipment,1V119 artillery fire direction vehicle,the Soviet Union,10,0.0,0.0,7.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,russia
+200,200,Artillery Support Vehicles And Equipment,1V1003 command and observation vehicle (for 1V198 artillery fire control system),Russia,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+201,201,Artillery Support Vehicles And Equipment,9T452 transporter-loader (for BM-27 Uragan MRL),the Soviet Union,40,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,28.0,0.0,russia
+202,202,Artillery Support Vehicles And Equipment,TZM 9T234-2 transporter-loader (for BM-30 Smerch),the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+203,203,Artillery Support Vehicles And Equipment,TZM-T reloader vehicle (for TOS-1A),Russia,7,0.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+204,204,Artillery Support Vehicles And Equipment,PRP-4(M) artillery reconnaissance vehicle,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+205,205,Artillery Support Vehicles And Equipment,PRP-4A Argus artillery reconnaissance vehicle,Russia,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+206,206,Towed Artillery,82mm 2B9 Vasilek automatic gun mortar,the Soviet Union,9,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,russia
+207,207,Towed Artillery,100mm MT-12 anti-tank gun,the Soviet Union,26,0.0,0.0,8.0,0.0,2.0,0.0,0.0,0.0,16.0,0.0,russia
+208,208,Towed Artillery,120mm 2B16 Nona-K gun mortar,the Soviet Union,12,2.0,0.0,7.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,russia
+209,209,Towed Artillery,122mm D-30 howitzer,the Soviet Union,79,2.0,0.0,31.0,0.0,7.0,0.0,1.0,0.0,38.0,0.0,russia
+210,210,Towed Artillery,152mm D-20 gun-howitzer,the Soviet Union,19,0.0,0.0,2.0,0.0,4.0,0.0,0.0,0.0,13.0,0.0,russia
+211,211,Towed Artillery,152mm 2A65 Msta-B howitzer,the Soviet Union,111,1.0,0.0,29.0,0.0,10.0,0.0,4.0,0.0,66.0,0.0,russia
+212,212,Towed Artillery,152mm 2A36 Giatsint-B field-gun,the Soviet Union,41,0.0,0.0,7.0,0.0,4.0,0.0,2.0,0.0,28.0,0.0,russia
+213,213,Towed Artillery,Unknown towed artillery,Russia,13,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,11.0,0.0,russia
+214,214,Self-Propelled Artillery,120mm 2S9 Nona,the Soviet Union,38,0.0,0.0,5.0,0.0,3.0,0.0,0.0,0.0,30.0,0.0,russia
+215,215,Self-Propelled Artillery,120mm 2S23 Nona-SVK,Russia,4,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+216,216,Self-Propelled Artillery,120mm 2S34 Khosta,Russia,2,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+217,217,Self-Propelled Artillery,122mm 2S1 Gvozdika,the Soviet Union,83,1.0,0.0,8.0,0.0,2.0,2.0,0.0,0.0,70.0,0.0,russia
+218,218,Self-Propelled Artillery,152mm 2S3(M) Akatsiya,the Soviet Union,134,2.0,0.0,31.0,0.0,5.0,0.0,0.0,0.0,96.0,0.0,russia
+219,219,Self-Propelled Artillery,152mm 2S5 Giatsint-S,the Soviet Union,45,0.0,0.0,6.0,0.0,5.0,0.0,0.0,0.0,34.0,0.0,russia
+220,220,Self-Propelled Artillery,152mm 2S19 Msta-S,the Soviet Union,145,2.0,2.0,34.0,0.0,10.0,0.0,1.0,0.0,96.0,0.0,russia
+221,221,Self-Propelled Artillery,152mm 2S33 Msta-SM2,Russia,34,0.0,0.0,15.0,0.0,2.0,0.0,1.0,0.0,16.0,0.0,russia
+222,222,Self-Propelled Artillery,203mm 2S7(M) Pion/Malka,the Soviet Union,17,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,15.0,0.0,russia
+223,223,Self-Propelled Artillery,240mm 2S4 Tyulpan,the Soviet Union,23,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,22.0,0.0,russia
+224,224,Self-Propelled Artillery,Unknown SPG,Russia,13,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,10.0,0.0,russia
+225,225,Multiple Rocket Launchers,122mm BM-21 Grad,the Soviet Union,167,2.0,1.0,30.0,0.0,11.0,0.0,4.0,0.0,119.0,0.0,russia
+226,226,Multiple Rocket Launchers,122mm 9P138 Grad-1,the Soviet Union,8,0.0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,4.0,0.0,russia
+227,227,Multiple Rocket Launchers,122mm 2B26 Grad-K,Russia,4,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,russia
+228,228,Multiple Rocket Launchers,122mm 2B17 Tornado-G,Russia,18,0.0,0.0,6.0,0.0,1.0,0.0,2.0,0.0,9.0,0.0,russia
+229,229,Multiple Rocket Launchers,140mm Ogon-18,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+230,230,Multiple Rocket Launchers,220mm TOS-1A,Russia,8,0.0,0.0,1.0,0.0,1.0,0.0,2.0,0.0,4.0,0.0,russia
+231,231,Multiple Rocket Launchers,220mm BM-27 Uragan,the Soviet Union,68,0.0,0.0,6.0,2.0,1.0,0.0,0.0,0.0,59.0,0.0,russia
+232,232,Multiple Rocket Launchers,300mm BM-30 Smerch,the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+233,233,Multiple Rocket Launchers,Unknown MRL,Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+234,234,Anti-Aircraft Guns,23mm ZU-23-2,the Soviet Union,17,0.0,0.0,13.0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,russia
+235,235,Anti-Aircraft Guns,57mm AZP S-60,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+236,236,Self-Propelled Anti-Aircraft Guns,BTR-ZD Skrezhet,the Soviet Union,3,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+237,237,Self-Propelled Anti-Aircraft Guns,ZSU-23-4 Shilka,the Soviet Union,8,1.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,russia
+238,238,Self-Propelled Anti-Aircraft Guns,2K22M1 Tunguska,Russia,14,0.0,5.0,1.0,0.0,1.0,1.0,0.0,0.0,6.0,0.0,russia
+239,239,Surface-To-Air Missile Systems,9K33 Osa,the Soviet Union,15,0.0,0.0,4.0,0.0,2.0,1.0,0.0,0.0,8.0,0.0,russia
+240,240,Surface-To-Air Missile Systems,9K35 Strela-10,the Soviet Union,32,2.0,0.0,4.0,0.0,3.0,0.0,0.0,0.0,23.0,0.0,russia
+241,241,Surface-To-Air Missile Systems,9A310M1-2 TELAR (for Buk-M1-2),Russia,14,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,11.0,0.0,russia
+242,242,Surface-To-Air Missile Systems,9A39M1-2 TEL (for Buk-M1-2),Russia,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,russia
+243,243,Surface-To-Air Missile Systems,9A317 TELAR (for Buk-M2),Russia,12,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,10.0,0.0,russia
+244,244,Surface-To-Air Missile Systems,9A316 TEL (for Buk-M2),Russia,5,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+245,245,Surface-To-Air Missile Systems,Unknown Buk M1-2/M2/M3 TEL(AR),Russia,10,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,9.0,0.0,russia
+246,246,Surface-To-Air Missile Systems,9A317M TELAR (for Buk-M3),Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+247,247,Surface-To-Air Missile Systems,9A330 TLAR (for 9K330 Tor),the Soviet Union,10,0.0,0.0,3.0,0.0,2.0,0.0,3.0,0.0,2.0,0.0,russia
+248,248,Surface-To-Air Missile Systems,9A331 TLAR (for 9K331 Tor-M1),Russia,8,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,russia
+249,249,Surface-To-Air Missile Systems,9A331M TLAR (for 9K332 Tor-M2),Russia,19,1.0,0.0,2.0,0.0,7.0,0.0,0.0,0.0,9.0,0.0,russia
+250,250,Surface-To-Air Missile Systems,9K331MDT TLAR Tor-M2DT,Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+251,251,Surface-To-Air Missile Systems,Unknown Tor TLAR,Russia,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,russia
+252,252,Surface-To-Air Missile Systems,Pantsir-S1,Russia,19,0.0,1.0,2.0,0.0,3.0,0.0,0.0,0.0,13.0,0.0,russia
+253,253,Surface-To-Air Missile Systems,5P85SD/SM (launcher for S-300 PMU(-1)),the Soviet Union,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,russia
+254,254,Surface-To-Air Missile Systems,9A83M2 TELAR (for S-300V4),Russia,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,russia
+255,255,Surface-To-Air Missile Systems,9A84-2 TEL (for S-300V4),Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+256,256,Surface-To-Air Missile Systems,5P85T2 (launcher for S-400),Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+257,257,Surface-To-Air Missile Systems,5P85SM2-01 (launcher for S-400),Russia,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,russia
+258,258,Radars,9S36 (for Buk-M2),Russia,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+259,259,Radars,9S18 Kupol (for Buk-M1-2/M2),Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+260,260,Radars,9S18М1(-2) (for Buk-M2),Russia,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+261,261,Radars,9S18М1(-3) (for Buk-M3),Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+262,262,Radars,9S36M (for Buk-M3),Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+263,263,Radars,9S32M1 (for S-300V),Russia,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,russia
+264,264,Radars,9S19M2 (for S-300V),Russia,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,russia
+265,265,Radars,92N6A (for S-400),Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+266,266,Radars,PPRU-1(M) '9S80(-1)' 'Sborka' (for 9K35 Strela-10),Russia,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+267,267,Radars,Repeynik portable counter-UAS radar,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+268,268,Radars,Fara ground surveillance radar,Russia,2,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+269,269,Radars,1L271 Aistyonok portable mortar locating reconnaissance radar,Russia,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+270,270,Radars,Sobolyatnik 1L277 portable ground reconnaissance radar,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+271,271,Radars,SNAR-10M1 battlefield surveillance radar,Russia,3,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,russia
+272,272,Radars,1L219 (for Zoopark counter-battery radar complex),the Soviet Union,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,russia
+273,273,Radars,1L259 (for Zoopark-1 counter-battery radar complex),Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+274,274,Radars,1L261 (for 1L260 Zoopark-1M counter-battery radar complex),Russia,9,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,5.0,0.0,russia
+275,275,Radars,P-18T surveillance radar,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+276,276,Radars,P-18-2 2D VHF surveillance radar,Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+277,277,Radars,48Ya6-K1 Podlet-K1 low-altitude S-band surveillance radar,Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+278,278,Radars,1L119 Nebo-SVU VHF multi-functional radar,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+279,279,Radars,1RL239 Ark-1(M) counter-battery radar,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+280,280,Radars,Predel coastal defence radar,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+281,281,Radars,Unknown radar,Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+282,282,Jammers And Deception Systems,R-325BMV jamming station,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+283,283,Jammers And Deception Systems,R-330BMV and R-394BMV Borisoglebsk-2B,Russia,11,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,8.0,0.0,russia
+284,284,Jammers And Deception Systems,R-330ZH Zhitel,Russia,13,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,11.0,0.0,russia
+285,285,Jammers And Deception Systems,R-330M1P Diabazol,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+286,286,Jammers And Deception Systems,R-934UM,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+287,287,Jammers And Deception Systems,R-934B 'Sinitsa' automated jamming station,Russia,5,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,0.0,russia
+288,288,Jammers And Deception Systems,1L262E Rtut-BM,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+289,289,Jammers And Deception Systems,Torn(-MDM),Russia,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+290,290,Jammers And Deception Systems,Silok-01 counter-UAV system,Russia,4,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,russia
+291,291,Jammers And Deception Systems,Strizh-3 counter-UAV system,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+292,292,Jammers And Deception Systems,1RL257 Krasukha-4 (command post),Russia,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+293,293,Jammers And Deception Systems,Leer-2 electronic warfare system,Russia,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,russia
+294,294,Jammers And Deception Systems,Leer-3 electronic warfare system,Russia,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+295,295,Jammers And Deception Systems,RLK-MC-A (ROSC-1) counter-UAV system,Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+296,296,Jammers And Deception Systems,RB-636AM2 Svet-KU EW system,Russia,2,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,russia
+297,297,Jammers And Deception Systems,Palantin EW system,Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+298,298,Jammers And Deception Systems,RP-377LA Lorandit,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+299,299,Jammers And Deception Systems,Unknown EW system,Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+300,300,Aircraft,MiG-31BM fighter aircraft,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+301,301,Aircraft,Su-30SM multirole aircraft,Russia,11,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10.0,0.0,russia
+302,302,Aircraft,Su-35S multirole aircraft,Russia,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,russia
+303,303,Aircraft,Su-25 close air support aircraft,the Soviet Union,30,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,24.0,0.0,russia
+304,304,Aircraft,Su-24M strike aircraft,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+305,305,Aircraft,Su-24MR tactical reconnaissance aircraft,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+306,306,Aircraft,Su-24M/MR strike/tactical reconnaissance aircraft,the Soviet Union,10,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,6.0,0.0,russia
+307,307,Aircraft,Su-34 strike aircraft,Russia,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,0.0,russia
+308,308,Aircraft,Su-34M strike aircraft,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+309,309,Aircraft,Tu-22M3 strategic bomber,the Soviet Union,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,russia
+310,310,Aircraft,Tu-95MS strategic bomber,the Soviet Union,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,russia
+311,311,Aircraft,Il-22 airborne command post,the Soviet Union,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,russia
+312,312,Aircraft,An-26 transport aircraft,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+313,313,Aircraft,Il-76 transport aircraft,the Soviet Union,5,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,0.0,russia
+314,314,Helicopters,Mi-8 transport helicopter,Russia,21,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,17.0,0.0,russia
+315,315,Helicopters,Mi-8MTPR-1 electronic warfare helicopter,Russia,5,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,0.0,russia
+316,316,Helicopters,Mi-24P attack helicopter,the Soviet Union,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,russia
+317,317,Helicopters,Mi-24V/P/35M attack helicopter,Russia,3,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,russia
+318,318,Helicopters,Mi-35M attack helicopter,Russia,10,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,9.0,0.0,russia
+319,319,Helicopters,Mi-28 attack helicopter,Russia,12,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,8.0,0.0,russia
+320,320,Helicopters,Ka-52 Alligator attack helicopter,Russia,44,0.0,2.0,0.0,0.0,4.0,0.0,1.0,0.0,36.0,0.0,russia
+321,321,Helicopters,Unknown helicopter,Russia,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,russia
+322,322,Unmanned Combat Aerial Vehicles,Orion,Russia,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,russia
+323,323,Unmanned Combat Aerial Vehicles,Korsar,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+324,324,Unmanned Combat Aerial Vehicles,Forpost-RU,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+325,325,Unmanned Combat Aerial Vehicles,Mohajer-6,Iran,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+326,326,Unmanned Combat Aerial Vehicles,Orlan-10 UCAV,Russia,3,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+327,327,Unmanned Combat Aerial Vehicles,Eleron T-16,Russia,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+328,328,Reconnaissance Unmanned Aerial Vehicles,Forpost,Israel,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,russia
+329,329,Reconnaissance Unmanned Aerial Vehicles,Orlan-10,Russia,155,0.0,0.0,65.0,0.0,0.0,0.0,0.0,0.0,90.0,0.0,russia
+330,330,Reconnaissance Unmanned Aerial Vehicles,Orlan-10 jamming UAV,Russia,5,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+331,331,Reconnaissance Unmanned Aerial Vehicles,'Orlan-20' ''Kartograf'',Russia,16,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,13.0,0.0,russia
+332,332,Reconnaissance Unmanned Aerial Vehicles,Orlan-30,Russia,7,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,russia
+333,333,Reconnaissance Unmanned Aerial Vehicles,Granat-3,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+334,334,Reconnaissance Unmanned Aerial Vehicles,Granat-4,Russia,6,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,russia
+335,335,Reconnaissance Unmanned Aerial Vehicles,Eleron-3,Russia,32,0.0,0.0,22.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,russia
+336,336,Reconnaissance Unmanned Aerial Vehicles,Eleron-10,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+337,337,Reconnaissance Unmanned Aerial Vehicles,Eleron T28ME,Russia,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,russia
+338,338,Reconnaissance Unmanned Aerial Vehicles,Takhion,Russia,4,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+339,339,Reconnaissance Unmanned Aerial Vehicles,ZALA 421-16Е,Russia,40,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,27.0,0.0,russia
+340,340,Reconnaissance Unmanned Aerial Vehicles,ZALA 421-16ЕM,Russia,2,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+341,341,Reconnaissance Unmanned Aerial Vehicles,Merlin-VR,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+342,342,Reconnaissance Unmanned Aerial Vehicles,Lastochka-M,Russia,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+343,343,Reconnaissance Unmanned Aerial Vehicles,Supercam S150,Russia,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+344,344,Reconnaissance Unmanned Aerial Vehicles,Supercam S350,Russia,11,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,russia
+345,345,Reconnaissance Unmanned Aerial Vehicles,Grifon-12,Russia,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+346,346,Naval Ships and Submarines,Project 1164 Slava-class guided missile cruiser,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,russia
+347,347,Naval Ships and Submarines,Project 636.3 Improved Kilo-class submarine,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,russia
+348,348,Naval Ships and Submarines,Project 03160 Raptor-class patrol boat,Russia,5,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,0.0,russia
+349,349,Naval Ships and Submarines,Project 02510 BK-16E high-speed assault boat,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+350,350,Naval Ships and Submarines,Project 640 small patrol boat,Russia,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+351,351,Naval Ships and Submarines,Project 1171 Tapir-class landing ship,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+352,352,Naval Ships and Submarines,Project 775 Ropucha-class landing ship,Poland,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,russia
+353,353,Naval Ships and Submarines,Project 775 Ropucha-class landing ship,Poland,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,russia
+354,354,Naval Ships and Submarines,Project 775 Ropucha-class landing ship,Poland,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,russia
+355,355,Naval Ships and Submarines,Project 11770 Serna-class landing craft,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+356,356,Naval Ships and Submarines,Project 22870 rescue tug,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+357,357,Naval Ships and Submarines,Project 266M Natya-class minesweeper,the Soviet Union,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,russia
+358,358,"Trucks, Vehicles, and Jeeps",GAZ-51,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+359,359,"Trucks, Vehicles, and Jeeps",GAZ-66,the Soviet Union,37,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,24.0,0.0,russia
+360,360,"Trucks, Vehicles, and Jeeps",KrAZ-255B,the Soviet Union,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,russia
+361,361,"Trucks, Vehicles, and Jeeps",KrAZ-255B tanker,the Soviet Union,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0,0.0,russia
+362,362,"Trucks, Vehicles, and Jeeps",KrAZ-260 tanker,the Soviet Union,9,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,7.0,0.0,russia
+363,363,"Trucks, Vehicles, and Jeeps",ZiL-131,the Soviet Union,28,1.0,0.0,6.0,0.0,0.0,0.0,2.0,0.0,19.0,0.0,russia
+364,364,"Trucks, Vehicles, and Jeeps",ZiL-131 tanker,the Soviet Union,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+365,365,"Trucks, Vehicles, and Jeeps",2F77M transloading vehicle for 2K22M Tunguska-M,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,russia
+366,366,"Trucks, Vehicles, and Jeeps",9T217 transloader (for 9K33 Osa),the Soviet Union,4,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,russia
+367,367,"Trucks, Vehicles, and Jeeps",9T244 transloader (for 9A330/1 Tor),Russia,7,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,5.0,0.0,russia
+368,368,"Trucks, Vehicles, and Jeeps",Truck-based support equipment (for S-400),Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+369,369,"Trucks, Vehicles, and Jeeps",GAZ-3308,Russia,7,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,russia
+370,370,"Trucks, Vehicles, and Jeeps",GAZ Sobol,Russia,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+371,371,"Trucks, Vehicles, and Jeeps",Ural-375D,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+372,372,"Trucks, Vehicles, and Jeeps",Ural-375D tanker,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+373,373,"Trucks, Vehicles, and Jeeps",Ural-4320,Russia,787,13.0,0.0,134.0,0.0,17.0,2.0,13.0,0.0,608.0,0.0,russia
+374,374,"Trucks, Vehicles, and Jeeps",Ural-4320,Russia,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,russia
+375,375,"Trucks, Vehicles, and Jeeps",Ural-4320,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+376,376,"Trucks, Vehicles, and Jeeps",Ural-4320,Russia,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,russia
+377,377,"Trucks, Vehicles, and Jeeps",Ural-4320,Russia,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,russia
+378,378,"Trucks, Vehicles, and Jeeps",Ural-4320 tanker,Russia,164,1.0,0.0,59.0,0.0,1.0,0.0,2.0,0.0,101.0,0.0,russia
+379,379,"Trucks, Vehicles, and Jeeps",Ural Avtozaks,Russia,7,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,russia
+380,380,"Trucks, Vehicles, and Jeeps",Ural-43206,Russia,145,1.0,0.0,36.0,0.0,1.0,3.0,3.0,0.0,101.0,0.0,russia
+381,381,"Trucks, Vehicles, and Jeeps",Ural-43206,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+382,382,"Trucks, Vehicles, and Jeeps",Ural Federal,Russia,30,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,22.0,0.0,russia
+383,383,"Trucks, Vehicles, and Jeeps",Ural-5323,Russia,6,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,russia
+384,384,"Trucks, Vehicles, and Jeeps",Ural-63704-0010 Tornado-U,Russia,14,1.0,0.0,5.0,0.0,1.0,0.0,1.0,0.0,6.0,0.0,russia
+385,385,"Trucks, Vehicles, and Jeeps",Ural-542301 tank transporter,Russia,2,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+386,386,"Trucks, Vehicles, and Jeeps",Ural-63501-AT,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+387,387,"Trucks, Vehicles, and Jeeps",MAZ TZ-500 tanker,the Soviet Union,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,russia
+388,388,"Trucks, Vehicles, and Jeeps",MAZ 531605 tanker,Belarus,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+389,389,"Trucks, Vehicles, and Jeeps",KamAZ 4x4,Russia,27,1.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,russia
+390,390,"Trucks, Vehicles, and Jeeps",KamAZ 6x4,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+391,391,"Trucks, Vehicles, and Jeeps",KamAZ 6x6,Russia,862,12.0,0.0,135.0,0.0,12.0,2.0,20.0,0.0,681.0,0.0,russia
+392,392,"Trucks, Vehicles, and Jeeps",KamAZ 6x6,Russia,7,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,russia
+393,393,"Trucks, Vehicles, and Jeeps",KamAZ 6x6 tanker,Russia,128,1.0,0.0,27.0,0.0,4.0,0.0,3.0,0.0,93.0,0.0,russia
+394,394,"Trucks, Vehicles, and Jeeps",KamAZ 8x8,Russia,17,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,russia
+395,395,"Trucks, Vehicles, and Jeeps",KamAZ Avtozaks,Russia,23,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,18.0,0.0,russia
+396,396,"Trucks, Vehicles, and Jeeps",KamAZ-5350 with armoured cabin,Russia,14,0.0,0.0,6.0,0.0,2.0,0.0,0.0,0.0,6.0,0.0,russia
+397,397,"Trucks, Vehicles, and Jeeps",KamAZ with MM-501 armoured cabin,Russia,30,2.0,0.0,9.0,0.0,1.0,0.0,1.0,0.0,17.0,0.0,russia
+398,398,"Trucks, Vehicles, and Jeeps",KamAZ-6350 8x8 artillery tractor,Russia,16,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,14.0,0.0,russia
+399,399,"Trucks, Vehicles, and Jeeps",KamAZ tank low-loader,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+400,400,"Trucks, Vehicles, and Jeeps",KamAZ 'Gorets' 3958,Russia,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,russia
+401,401,"Trucks, Vehicles, and Jeeps",Civilian KamAZ 6x6 converted for military use,Russia,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+402,402,"Trucks, Vehicles, and Jeeps",UAZ-469 jeep,the Soviet Union,33,1.0,0.0,11.0,0.0,0.0,0.0,3.0,0.0,18.0,0.0,russia
+403,403,"Trucks, Vehicles, and Jeeps",UAZ-452 van,the Soviet Union,63,1.0,0.0,10.0,0.0,2.0,1.0,4.0,0.0,45.0,0.0,russia
+404,404,"Trucks, Vehicles, and Jeeps",UAZ-3303,the Soviet Union,7,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,russia
+405,405,"Trucks, Vehicles, and Jeeps",LuAZ-969,the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,russia
+406,406,"Trucks, Vehicles, and Jeeps",UAZ Patriot jeep,Russia,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,russia
+407,407,"Trucks, Vehicles, and Jeeps",UAZ-3151,Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+408,408,"Trucks, Vehicles, and Jeeps",UAZ-31514,Russia,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,russia
+409,409,"Trucks, Vehicles, and Jeeps",UAZ-23632 pickup truck,Russia,8,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,russia
+410,410,"Trucks, Vehicles, and Jeeps",UAZ-23632-148-64 armed pickup truck,Russia,8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,russia
+411,411,"Trucks, Vehicles, and Jeeps",UAZ-394511 ‘Esaul’,Russia,5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,3.0,0.0,russia
+412,412,"Trucks, Vehicles, and Jeeps",UAZ-515195 'Esaul',Russia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,russia
+413,413,"Trucks, Vehicles, and Jeeps",UAZ-39094,Russia,12,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,11.0,0.0,russia
+414,414,"Trucks, Vehicles, and Jeeps",Unknown fuel tanker,Russia,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,russia
+415,415,"Trucks, Vehicles, and Jeeps",(Unknown) truck,Russia,256,1.0,0.0,10.0,1.0,7.0,2.0,0.0,0.0,235.0,0.0,russia
+416,416,"Trucks, Vehicles, and Jeeps",(Unknown) vehicle,Russia,46,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,40.0,0.0,russia
+0,0,Tanks,M-55S,Slovenia,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,ukraine
+1,1,Tanks,T-64A,the Soviet Union,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+2,2,Tanks,T-64B,the Soviet Union,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,ukraine
+3,3,Tanks,T-64BV,the Soviet Union,244,3.0,0.0,49.0,8.0,23.0,6.0,4.0,0.0,151.0,0.0,ukraine
+4,4,Tanks,T-64BV Zr. 2017,Ukraine,82,3.0,0.0,28.0,0.0,5.0,1.0,0.0,0.0,45.0,0.0,ukraine
+5,5,Tanks,T-64B1M,Ukraine,9,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+6,6,Tanks,T-64BM 'Bulat',Ukraine,14,0.0,0.0,4.0,0.0,3.0,0.0,0.0,0.0,7.0,0.0,ukraine
+7,7,Tanks,T-64BM2 'Bulat',Ukraine,5,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,0.0,ukraine
+8,8,Tanks,Unknown T-64,Ukraine,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+9,9,Tanks,T-72 'Ural',the Soviet Union,4,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,ukraine
+10,10,Tanks,T-72M/M1(R),Poland,61,1.0,0.0,8.0,0.0,1.0,6.0,1.0,0.0,44.0,0.0,ukraine
+11,11,Tanks,T-72EA,the Czech Republic,7,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,ukraine
+12,12,Tanks,T-72AV,the Soviet Union,32,2.0,0.0,6.0,0.0,2.0,1.0,2.0,0.0,19.0,0.0,ukraine
+13,13,Tanks,T-72B,the Soviet Union,41,0.0,0.0,6.0,0.0,2.0,0.0,1.0,0.0,32.0,0.0,ukraine
+14,14,Tanks,T-72AMT,Ukraine,18,0.0,0.0,4.0,0.0,1.0,2.0,2.0,0.0,9.0,0.0,ukraine
+15,15,Tanks,T-72AMT Zr.2022,Ukraine,2,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,ukraine
+16,16,Tanks,PT-91 Twardy,Poland,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+17,17,Tanks,Unknown T-72,Ukraine,16,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,15.0,0.0,ukraine
+18,18,Tanks,T-80BV,the Soviet Union,54,1.0,0.0,9.0,0.0,3.0,1.0,6.0,0.0,34.0,0.0,ukraine
+19,19,Tanks,Leopard 2A4,Germany,7,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,3.0,0.0,ukraine
+20,20,Tanks,Leopard 2A6,Germany,9,0.0,0.0,0.0,0.0,3.0,3.0,0.0,0.0,3.0,0.0,ukraine
+21,21,Tanks,Stridsvagn 122,Sweden,2,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,ukraine
+22,22,Tanks,Challenger 2,the United Kingdom,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+23,23,Tanks,Unknown tank,Ukraine,37,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,36.0,0.0,ukraine
+24,24,Armoured Fighting Vehicles,AMX-10 RC(R),France,4,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+25,25,Armoured Fighting Vehicles,BRM-1(K) reconnaissance vehicle,the Soviet Union,44,3.0,0.0,11.0,0.0,1.0,1.0,1.0,0.0,27.0,0.0,ukraine
+26,26,Armoured Fighting Vehicles,BRDM-2,the Soviet Union,64,0.0,0.0,27.0,0.0,0.0,0.0,0.0,0.0,37.0,0.0,ukraine
+27,27,Armoured Fighting Vehicles,BRDM-2L1,Ukraine,47,0.0,0.0,17.0,0.0,1.0,0.0,0.0,0.0,29.0,0.0,ukraine
+28,28,Armoured Fighting Vehicles,BRDM-2RKhb chemical reconnaissance vehicle,the Soviet Union,11,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,ukraine
+29,29,Armoured Fighting Vehicles,Vepr,Ukraine,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+30,30,Armoured Fighting Vehicles,MT-LB,the Soviet Union,54,1.0,0.0,8.0,0.0,1.0,0.0,0.0,0.0,44.0,0.0,ukraine
+31,31,Armoured Fighting Vehicles,MT-LB,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+32,32,Armoured Fighting Vehicles,MT-LB with ZU-23 AA gun,the Soviet Union,9,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,ukraine
+33,33,Armoured Fighting Vehicles,MT-LB with BPU-1 turret,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+34,34,Armoured Fighting Vehicles,BTS-4 ARV with ZU-23 AA gun,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+35,35,Armoured Fighting Vehicles,MT-LBu,the Soviet Union,6,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,ukraine
+36,36,Armoured Fighting Vehicles,MT-LB-S Ambulance,Ukraine,20,1.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,14.0,0.0,ukraine
+37,37,Armoured Fighting Vehicles,BMM-70 Ambulance,Ukraine,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+38,38,Armoured Fighting Vehicles,BMM-4C Ambulance,Ukraine,3,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+39,39,Armoured Fighting Vehicles,Unknown AFV,Ukraine,58,0.0,0.0,0.0,0.0,6.0,1.0,0.0,0.0,51.0,0.0,ukraine
+40,40,Infantry Fighting Vehicles,BMP-1(P),the Soviet Union,343,16.0,1.0,46.0,0.0,9.0,6.0,3.0,0.0,262.0,0.0,ukraine
+41,41,Infantry Fighting Vehicles,BMP-1TS,Ukraine,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+42,42,Infantry Fighting Vehicles,BMP-1U Shkval,Ukraine,2,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+43,43,Infantry Fighting Vehicles,BWP-1,Poland,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+44,44,Infantry Fighting Vehicles,Pbv 501A,Sweden,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,ukraine
+45,45,Infantry Fighting Vehicles,BVP M-80A,Yugoslavia %281946-1992%29,7,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,ukraine
+46,46,Infantry Fighting Vehicles,BMP-2(K),the Soviet Union,173,9.0,0.0,24.0,0.0,5.0,5.0,0.0,0.0,130.0,0.0,ukraine
+47,47,Infantry Fighting Vehicles,Unknown BMP-1/2,the Soviet Union,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0,0.0,ukraine
+48,48,Infantry Fighting Vehicles,PRP-3 with a BMD-2 turret,the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+49,49,Infantry Fighting Vehicles,PRP-3 with a BMP-1 turret,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+50,50,Infantry Fighting Vehicles,BMD-2,the Soviet Union,5,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+51,51,Infantry Fighting Vehicles,M2A2 Bradley ODS-SA,the United States,55,0.0,0.0,0.0,0.0,21.0,6.0,0.0,0.0,28.0,0.0,ukraine
+52,52,Infantry Fighting Vehicles,CV9040C,Sweden,4,0.0,0.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,ukraine
+53,53,Infantry Fighting Vehicles,Marder 1A3,Germany,2,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,ukraine
+54,54,Infantry Fighting Vehicles,BTR-3,Ukraine,41,0.0,0.0,12.0,0.0,1.0,0.0,0.0,0.0,28.0,0.0,ukraine
+55,55,Infantry Fighting Vehicles,BTR-4,Ukraine,86,2.0,0.0,22.0,3.0,4.0,3.0,0.0,0.0,52.0,0.0,ukraine
+56,56,Infantry Fighting Vehicles,KTO Rosomak,Poland,3,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,ukraine
+57,57,Armoured Personnel Carriers,BTR-60PB,the Soviet Union,22,0.0,0.0,7.0,0.0,0.0,0.0,1.0,0.0,14.0,0.0,ukraine
+58,58,Armoured Personnel Carriers,BTR-70,the Soviet Union,28,0.0,0.0,10.0,1.0,4.0,0.0,0.0,0.0,13.0,0.0,ukraine
+59,59,Armoured Personnel Carriers,BTR-70M,Ukraine,8,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,ukraine
+60,60,Armoured Personnel Carriers,BTR-7,Ukraine,26,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,ukraine
+61,61,Armoured Personnel Carriers,BTR-80,the Soviet Union,107,0.0,0.0,34.0,0.0,2.0,1.0,2.0,0.0,68.0,0.0,ukraine
+62,62,Armoured Personnel Carriers,BTR-80M,Ukraine,2,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+63,63,Armoured Personnel Carriers,BTR-D,the Soviet Union,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+64,64,Armoured Personnel Carriers,GT-MU AFV converted to APC,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+65,65,Armoured Personnel Carriers,Unknown BTR,Ukraine,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,ukraine
+66,66,Armoured Personnel Carriers,YPR-765,the Netherlands,51,4.0,0.0,3.0,0.0,8.0,3.0,0.0,0.0,33.0,0.0,ukraine
+67,67,Armoured Personnel Carriers,M113,the United States,57,1.0,0.0,6.0,0.0,7.0,3.0,1.0,0.0,39.0,0.0,ukraine
+68,68,Armoured Personnel Carriers,M113AS4,Australia %28converted%29,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,ukraine
+69,69,Armoured Personnel Carriers,M113G3DK/G4DK,Denmark,7,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,0.0,ukraine
+70,70,Armoured Personnel Carriers,FV103 Spartan,the United Kingdom,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,ukraine
+71,71,Armoured Personnel Carriers,VAB,France,12,0.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,6.0,0.0,ukraine
+72,72,Armoured Personnel Carriers,Sisu XA-185,Finland,7,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,4.0,0.0,ukraine
+73,73,Armoured Personnel Carriers,M1126 Stryker,the United States,4,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,ukraine
+74,74,Mine-Resistant Ambush Protected,Vepr,Ukraine,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+75,75,Mine-Resistant Ambush Protected,KrAZ-MPV Shrek One,Ukraine,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+76,76,Mine-Resistant Ambush Protected,KrAZ-Forpost,Ukraine,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+77,77,Mine-Resistant Ambush Protected,Alvis 4 'Mamba',the United Kingdom,4,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,ukraine
+78,78,Mine-Resistant Ambush Protected,Mastiff Protected Patrol,the United Kingdom,29,2.0,0.0,1.0,0.0,6.0,1.0,2.0,0.0,17.0,0.0,ukraine
+79,79,Mine-Resistant Ambush Protected,Wolfhound Protected Patrol,the United Kingdom,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,ukraine
+80,80,Mine-Resistant Ambush Protected,Bushmaster Protected Mobility Vehicle,Australia %28converted%29,9,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,6.0,0.0,ukraine
+81,81,Mine-Resistant Ambush Protected,International M1224 MaxxPro,the United States,63,5.0,0.0,2.0,0.0,8.0,1.0,0.0,0.0,47.0,0.0,ukraine
+82,82,Mine-Resistant Ambush Protected,Oshkosh M-ATV,the United States,23,0.0,0.0,1.0,0.0,1.0,4.0,0.0,0.0,17.0,0.0,ukraine
+83,83,Mine-Resistant Ambush Protected,ATF Dingo,Germany,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,4.0,0.0,ukraine
+84,84,Mine-Resistant Ambush Protected,BMC Kirpi,Turkey,25,1.0,0.0,1.0,0.0,3.0,4.0,1.0,0.0,15.0,0.0,ukraine
+85,85,Infantry Mobility Vehicles,KrAZ Cobra,Ukraine,13,0.0,0.0,6.0,0.0,1.0,0.0,0.0,0.0,6.0,0.0,ukraine
+86,86,Infantry Mobility Vehicles,KrAZ Cougar,Ukraine,5,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+87,87,Infantry Mobility Vehicles,KrAZ Spartan,Ukraine,10,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,ukraine
+88,88,Infantry Mobility Vehicles,Novator,Ukraine,19,0.0,0.0,5.0,0.0,3.0,0.0,0.0,0.0,11.0,0.0,ukraine
+89,89,Infantry Mobility Vehicles,Varta,Ukraine,38,0.0,0.0,25.0,0.0,2.0,0.0,0.0,0.0,11.0,0.0,ukraine
+90,90,Infantry Mobility Vehicles,Kozak-2,Ukraine,59,0.0,0.0,18.0,0.0,0.0,1.0,1.0,0.0,39.0,0.0,ukraine
+91,91,Infantry Mobility Vehicles,Kozak-2M1,Ukraine,26,0.0,0.0,7.0,0.0,2.0,1.0,0.0,0.0,16.0,0.0,ukraine
+92,92,Infantry Mobility Vehicles,Kozak-5,Ukraine,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+93,93,Infantry Mobility Vehicles,Kozak-7,Ukraine,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,5.0,0.0,ukraine
+94,94,Infantry Mobility Vehicles,Triton-1,Ukraine,3,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+95,95,Infantry Mobility Vehicles,M1114 and M1151 HMMWV,the United States,80,1.0,0.0,7.0,0.0,9.0,2.0,4.0,0.0,57.0,0.0,ukraine
+96,96,Infantry Mobility Vehicles,M1152 HMMWV,the United States,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,ukraine
+97,97,Infantry Mobility Vehicles,M998 HMMWV,the United States,16,0.0,0.0,12.0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,ukraine
+98,98,Infantry Mobility Vehicles,M1165 HMMWV,the United States,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,ukraine
+99,99,Infantry Mobility Vehicles,M1123 HMMWV,the United States,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+100,100,Infantry Mobility Vehicles,HMMWV Ambulance,the United States,11,0.0,0.0,4.0,0.0,2.0,0.0,3.0,0.0,2.0,0.0,ukraine
+101,101,Infantry Mobility Vehicles,Unknown HMMWV variant,the United States,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,ukraine
+102,102,Infantry Mobility Vehicles,AT105A Saxon,the United Kingdom,14,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,ukraine
+103,103,Infantry Mobility Vehicles,Husky Tactical Support Vehicle,the United Kingdom,20,0.0,0.0,2.0,0.0,4.0,1.0,0.0,0.0,13.0,0.0,ukraine
+104,104,Infantry Mobility Vehicles,Iveco LMV,Italy,9,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,8.0,0.0,ukraine
+105,105,Infantry Mobility Vehicles,MLS Shield,Italy,3,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,ukraine
+106,106,Infantry Mobility Vehicles,INKAS Titan-S,the United Arab Emirates,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,ukraine
+107,107,Infantry Mobility Vehicles,Panthera T6,the United Arab Emirates,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+108,108,Infantry Mobility Vehicles,Roshel Senator,Canada %28Pantone%29,7,0.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,3.0,0.0,ukraine
+109,109,Infantry Mobility Vehicles,AMZ Dzik-2,Poland,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,ukraine
+110,110,Infantry Mobility Vehicles,Oncilla,Poland,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+111,111,Infantry Mobility Vehicles,Unknown IMV,Ukraine,7,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,6.0,0.0,ukraine
+112,112,Command Posts And Communications Stations,BMP-1KSh command and staff vehicle,the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+113,113,Command Posts And Communications Stations,K1Sh1 command and staff vehicle,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+114,114,Command Posts And Communications Stations,R-142N command and staff vehicle,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+115,115,Command Posts And Communications Stations,BTR-70DI-02 'Svityaz' command and staff vehicle,Ukraine,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+116,116,Command Posts And Communications Stations,R-145BM command vehicle,the Soviet Union,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+117,117,Command Posts And Communications Stations,BTR-60PU-12 air defence command vehicle,the Soviet Union,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+118,118,Command Posts And Communications Stations,R-409A radio station vehicle,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+119,119,Command Posts And Communications Stations,R-405M radio station vehicle,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+120,120,Command Posts And Communications Stations,9S470M1 command vehicle for Buk-M1,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+121,121,Command Posts And Communications Stations,R-845 radio station,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+122,122,Command Posts And Communications Stations,ZiL-131-based KShM KUNG command vehicle,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+123,123,Command Posts And Communications Stations,Radio relay station for the TB2 UCAV,Turkey,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+124,124,Command Posts And Communications Stations,Control station for the TB2 UCAV,Turkey,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+125,125,Command Posts And Communications Stations,SkyGuard Aspide control station,Italy,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+126,126,Engineering Vehicles And Equipment,IMR-2 combat engineering vehicle,the Soviet Union,7,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,5.0,0.0,ukraine
+127,127,Engineering Vehicles And Equipment,BMR-2 mine-clearing tank,the Soviet Union,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+128,128,Engineering Vehicles And Equipment,T-64 mine-clearing tank,Ukraine,3,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,ukraine
+129,129,Engineering Vehicles And Equipment,Leopard 2R mine-clearing tank,Finland,3,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,ukraine
+130,130,Engineering Vehicles And Equipment,Wisent 1 mine-clearing tank,Germany,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+131,131,Engineering Vehicles And Equipment,BAT-2 heavy engineering vehicle,the Soviet Union,3,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,ukraine
+132,132,Engineering Vehicles And Equipment,MT-T multi-purpose tracked transporter,the Soviet Union,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,ukraine
+133,133,Engineering Vehicles And Equipment,IRM 'Zhuk' engineer reconnaissance vehicle,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+134,134,Engineering Vehicles And Equipment,MDK-3 trench-digging vehicle,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+135,135,Engineering Vehicles And Equipment,RKhM 'Kashalot',the Soviet Union,3,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+136,136,Engineering Vehicles And Equipment,BREM-Ch ''BREM-4'' armoured recovery vehicle,the Czech Republic,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,ukraine
+137,137,Engineering Vehicles And Equipment,BTS-4A armoured recovery vehicle,the Soviet Union,8,1.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,4.0,0.0,ukraine
+138,138,Engineering Vehicles And Equipment,BREM-1 armoured recovery vehicle,the Soviet Union,6,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,3.0,0.0,ukraine
+139,139,Engineering Vehicles And Equipment,M88A1 armoured recovery vehicle,the United States,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+140,140,Engineering Vehicles And Equipment,Bergepanzer 2 armoured recovery vehicle,Germany,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,ukraine
+141,141,Engineering Vehicles And Equipment,Ural-4320 KET-L recovery vehicle,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+142,142,Engineering Vehicles And Equipment,M1132 Stryker Engineering Squad Vehicle,the United States,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+143,143,Engineering Vehicles And Equipment,MTO-AT mobile workshop,the Soviet Union,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+144,144,Engineering Vehicles And Equipment,PTS-2  tracked amphibious transport,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+145,145,Engineering Vehicles And Equipment,PMP floating bridge,the Soviet Union,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+146,146,Engineering Vehicles And Equipment,TMM-3M1 bridge layer,Ukraine,3,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+147,147,Engineering Vehicles And Equipment,Pontoon bridge,Ukraine,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+148,148,Engineering Vehicles And Equipment,KrAZ-255B with excavator,the Soviet Union,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+149,149,Engineering Vehicles And Equipment,KrAZ-255B pontoon bridge layer,the Soviet Union,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,ukraine
+150,150,Engineering Vehicles And Equipment,KrAZ-255B with KS-3575 crane,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+151,151,Engineering Vehicles And Equipment,KrAZ-6322 Master mobile workshop,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+152,152,Engineering Vehicles And Equipment,GMZ-3 minelayer,the Soviet Union,4,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,ukraine
+153,153,Engineering Vehicles And Equipment,PZM-2 trench-digging vehicle,the Soviet Union,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,ukraine
+154,154,Engineering Vehicles And Equipment,UMP-350 engine heater,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+155,155,Engineering Vehicles And Equipment,ARS-14 decontamination and degassing vehicle,the Soviet Union,3,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+156,156,Engineering Vehicles And Equipment,Ural-4320 KT-L recovery vehicle,the Soviet Union,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,ukraine
+157,157,Engineering Vehicles And Equipment,BMK-460 towing and motor boat,the Soviet Union,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,ukraine
+158,158,Engineering Vehicles And Equipment,TDA-M mobile smoke generator,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+159,159,Engineering Vehicles And Equipment,AK-04-9A 'Porosha' airfield air conditioner based on KamAZ-5320,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+160,160,Self-Propelled Anti-Tank Missile Systems,9P148 Konkurs ATGM carrier,the Soviet Union,18,1.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,ukraine
+161,161,Self-Propelled Anti-Tank Missile Systems,9P149 Shturm-S ATGM carrier,the Soviet Union,3,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,ukraine
+162,162,Artillery Support Vehicles And Equipment,1V13 battery command and forward observer vehicle,the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+163,163,Artillery Support Vehicles And Equipment,1V14 battery command and forward observer vehicle,the Soviet Union,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,ukraine
+164,164,Artillery Support Vehicles And Equipment,1V15 battery command and forward observer vehicle,the Soviet Union,4,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+165,165,Artillery Support Vehicles And Equipment,1V16M artillery battalion command and staff vehicle,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+166,166,Artillery Support Vehicles And Equipment,1V18 'Klyon-1' artillery command and forward observer vehicle,the Soviet Union,8,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+167,167,Artillery Support Vehicles And Equipment,9T452 transporter-loader (for BM-27 'Uragan' MRL),the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+168,168,Towed Artillery,100mm BS-3 anti-tank gun,the Soviet Union,3,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+169,169,Towed Artillery,100mm MT-12 anti-tank gun,the Soviet Union,18,0.0,0.0,11.0,0.0,1.0,0.0,0.0,0.0,6.0,0.0,ukraine
+170,170,Towed Artillery,105mm L119 howitzer,the United Kingdom,2,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,ukraine
+171,171,Towed Artillery,120mm 2B16 Nona-K gun mortar,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+172,172,Towed Artillery,122mm D-30 howitzer,the Soviet Union,10,0.0,0.0,2.0,0.0,4.0,0.0,0.0,0.0,4.0,0.0,ukraine
+173,173,Towed Artillery,130mm M-46 field gun,the Soviet Union,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,ukraine
+174,174,Towed Artillery,152mm D-20 gun-howitzer,the Soviet Union,9,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,7.0,0.0,ukraine
+175,175,Towed Artillery,152mm 2A36 Giatsint-B field-gun,the Soviet Union,14,0.0,9.0,1.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,ukraine
+176,176,Towed Artillery,152mm 2A65 Msta-B howitzer,the Soviet Union,6,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,ukraine
+177,177,Towed Artillery,155mm FH-70 howitzer,Estonia,4,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,ukraine
+178,178,Towed Artillery,155mm TRF1 howitzer,France,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+179,179,Towed Artillery,155mm M777A2 howitzer,the United States,67,0.0,0.0,0.0,0.0,31.0,0.0,0.0,0.0,36.0,0.0,ukraine
+180,180,Towed Artillery,Unknown towed artillery,Ukraine,24,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,18.0,0.0,ukraine
+181,181,Self-Propelled Artillery,120mm Bars-8MMK,Ukraine,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+182,182,Self-Propelled Artillery,120mm BTR-3M2,Ukraine,3,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+183,183,Self-Propelled Artillery,120mm 2S9 Nona,the Soviet Union,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,ukraine
+184,184,Self-Propelled Artillery,120mm BRM-1K with 2S9 Nona turret,the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+185,185,Self-Propelled Artillery,120mm М1064А3,the United States,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+186,186,Self-Propelled Artillery,120mm Alakran,Spain,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+187,187,Self-Propelled Artillery,122mm 2S1 Gvozdika,the Soviet Union,78,0.0,0.0,13.0,0.0,12.0,0.0,0.0,0.0,53.0,0.0,ukraine
+188,188,Self-Propelled Artillery,152mm 2S3 Akatsiya,the Soviet Union,36,0.0,0.0,4.0,0.0,7.0,0.0,0.0,0.0,25.0,0.0,ukraine
+189,189,Self-Propelled Artillery,152mm 2S5 Giatsint-S,the Soviet Union,3,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+190,190,Self-Propelled Artillery,152mm 2S19 Msta-S,the Soviet Union,5,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,2.0,0.0,ukraine
+191,191,Self-Propelled Artillery,155mm M109A3/A4/A5/A6/L,Norway,35,0.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0,22.0,0.0,ukraine
+192,192,Self-Propelled Artillery,155mm AHS Krab,Poland,21,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,18.0,0.0,ukraine
+193,193,Self-Propelled Artillery,203mm 2S7 Pion,the Soviet Union,9,0.0,0.0,1.0,0.0,4.0,0.0,1.0,0.0,3.0,0.0,ukraine
+194,194,Self-Propelled Artillery,155mm ShKH Zuzana 2,Slovakia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+195,195,Self-Propelled Artillery,155mm Caesar 6x6,France,4,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,ukraine
+196,196,Self-Propelled Artillery,155mm Caesar 8x8,France,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+197,197,Self-Propelled Artillery,155mm Panzerhaubitze 2000,Germany,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,ukraine
+198,198,Self-Propelled Artillery,152mm ShKH vz. 77 DANA,the Czech Republic,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,ukraine
+199,199,Self-Propelled Artillery,155mm AS-90,the United Kingdom,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,ukraine
+200,200,Self-Propelled Artillery,Unknown SPG,Ukraine,10,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,9.0,0.0,ukraine
+201,201,Multiple Rocket Launchers,80mm B-8 makeshift MRL,Ukraine,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+202,202,Multiple Rocket Launchers,122mm BM-21 Grad,the Soviet Union,38,0.0,0.0,5.0,0.0,8.0,0.0,0.0,0.0,25.0,0.0,ukraine
+203,203,Multiple Rocket Launchers,122mm Bastion-1,Ukraine,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+204,204,Multiple Rocket Launchers,220mm BM-27 Uragan,the Soviet Union,6,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+205,205,Multiple Rocket Launchers,220mm Bureviy,Ukraine,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+206,206,Multiple Rocket Launchers,122mm RM-70,the Czech Republic,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,ukraine
+207,207,Anti-Aircraft Guns,23mm ZU-23,the Soviet Union,3,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+208,208,Anti-Aircraft Guns,23mm 23 ItK 61,Finland,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+209,209,Self-Propelled Anti-Aircraft Guns,BTR-ZD Skrezhet,the Soviet Union,1,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+210,210,Self-Propelled Anti-Aircraft Guns,ZSU-23-4 Shilka,the Soviet Union,5,1.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,ukraine
+211,211,Self-Propelled Anti-Aircraft Guns,2K22M Tunguska-M,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+212,212,Surface-To-Air Missile Systems,9K33 Osa,the Soviet Union,18,0.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,12.0,0.0,ukraine
+213,213,Surface-To-Air Missile Systems,9K35 Strela-10,the Soviet Union,22,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,18.0,0.0,ukraine
+214,214,Surface-To-Air Missile Systems,Stormer HVM,the United Kingdom,3,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,ukraine
+215,215,Surface-To-Air Missile Systems,9A310M1 TELAR (for Buk-M1),the Soviet Union,13,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,10.0,0.0,ukraine
+216,216,Surface-To-Air Missile Systems,9A39M1 TEL (for Buk-M1),the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+217,217,Surface-To-Air Missile Systems,9A330 Tor TLAR (for 9K330 Tor),the Soviet Union,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,ukraine
+218,218,Surface-To-Air Missile Systems,5P851A (Launcher for S-300PT-1A),the Soviet Union,28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0,0.0,ukraine
+219,219,Surface-To-Air Missile Systems,5P85D (launcher for S-300PS),the Soviet Union,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+220,220,Surface-To-Air Missile Systems,5P85S (launcher for S-300PS),the Soviet Union,13,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,11.0,0.0,ukraine
+221,221,Surface-To-Air Missile Systems,5P85D/S (launcher for S-300PS),the Soviet Union,22,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,21.0,0.0,ukraine
+222,222,Surface-To-Air Missile Systems,Launcher for S-300,the Soviet Union,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,ukraine
+223,223,Radars And Communications Equipment,P-14 'Tall King',the Soviet Union,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,ukraine
+224,224,Radars And Communications Equipment,P-18 'Spoon Rest D',the Soviet Union,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,ukraine
+225,225,Radars And Communications Equipment,P-18 'Malakhit',Ukraine,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,ukraine
+226,226,Radars And Communications Equipment,79K6 'Pelikan' 3D surveillance radar,Ukraine,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+227,227,Radars And Communications Equipment,P-19 'Flat Face B',the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+228,228,Radars And Communications Equipment,P-35/37 'Bar Lock',the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+229,229,Radars And Communications Equipment,PRV-11 'Side Net',the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+230,230,Radars And Communications Equipment,PRV-13 'Odd Pair',the Soviet Union,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+231,231,Radars And Communications Equipment,PRV-16 'Thin Skin B',the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+232,232,Radars And Communications Equipment,1L22 'Parol',the Soviet Union,4,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,ukraine
+233,233,Radars And Communications Equipment,36D6 'Tin Shield',the Soviet Union,14,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,11.0,0.0,ukraine
+234,234,Radars And Communications Equipment,5N63S 'Flap Lid B' (for S-300PS),the Soviet Union,13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,0.0,ukraine
+235,235,Radars And Communications Equipment,5N63-1 'Flap Lid A' on 40V6M mast (for S-300PT),the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+236,236,Radars And Communications Equipment,5N66M 'Clam Shell' on 40V6M mast (for S-300PT),the Soviet Union,3,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+237,237,Radars And Communications Equipment,"R-410-7,5 tropospheric radio relay communication station",the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+238,238,Radars And Communications Equipment,SNAR-10 battlefield surveillance radar,the Soviet Union,3,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+239,239,Radars And Communications Equipment,1B44-1 (RPMK-1) radiosonde weather radar,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+240,240,Radars And Communications Equipment,ST-68U radar,the Soviet Union,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,ukraine
+241,241,Radars And Communications Equipment,PRV-16ML height-finder radar,Lithuania,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+242,242,Radars And Communications Equipment,P-18ML long-range VHF surveillance radar,Lithuania,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,ukraine
+243,243,Radars And Communications Equipment,AN-MPQ-64 Sentinel radr,the United States,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+244,244,Radars And Communications Equipment,TRML-4D multi-functional radar (for IRIS-T SLM),Germany,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,ukraine
+245,245,Radars And Communications Equipment,AN/TPQ-36 weapons location radar,the United States,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,ukraine
+246,246,Radars And Communications Equipment,AN/TPQ-37 weapons location radar,the United States,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+247,247,Radars And Communications Equipment,AN/TPQ-49 lightweight counter mortar radar,the United States,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+248,248,Radars And Communications Equipment,AN/TPQ-50 counter-battery radar,the United States,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,ukraine
+249,249,Radars And Communications Equipment,ARTHUR counter-battery radar,the United Kingdom,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+250,250,Radars And Communications Equipment,Unknown counter mortar/battery radar,the United States,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,ukraine
+251,251,Jammers And Deception Systems,NOTA,Ukraine,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+252,252,Jammers And Deception Systems,Bukovel-AD EW system,Ukraine,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,ukraine
+253,253,Aircraft,MiG-29 fighter aircraft,the Soviet Union,22,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,21.0,0.0,ukraine
+254,254,Aircraft,Su-27 fighter aircraft,the Soviet Union,12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,ukraine
+255,255,Aircraft,Su-25 close air support aircraft,the Soviet Union,16,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,0.0,ukraine
+256,256,Aircraft,Su-24M strike aircraft,the Soviet Union,16,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,0.0,ukraine
+257,257,Aircraft,Su-24MR tactical reconnaissance aircraft,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+258,258,Aircraft,L-39 Albatros,the Czech Republic,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+259,259,Aircraft,Il-76 transport aircraft,the Soviet Union,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+260,260,Aircraft,An-26 transport aircraft,the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+261,261,Helicopters,Mi-2 training helicopter,the Soviet Union,5,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+262,262,Helicopters,Mi-8 transport helicopter,the Soviet Union,26,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,25.0,0.0,ukraine
+263,263,Helicopters,Mi-14PS maritime helicopter,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+264,264,Helicopters,Mi-24P attack helicopter,the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+265,265,Helicopters,Mi-24 attack helicopter,the Soviet Union,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,ukraine
+266,266,Helicopters,Airbus H225 transport helicopter,France,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+267,267,Unmanned Combat Aerial Vehicles,Bayraktar TB2,Turkey,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,0.0,ukraine
+268,268,Unmanned Combat Aerial Vehicles,Avenger,Ukraine,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+269,269,Reconnaissance Unmanned Aerial Vehicles,A1-SM Fury,Ukraine,45,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,ukraine
+270,270,Reconnaissance Unmanned Aerial Vehicles,ASU-1 Valkyrja,Ukraine,29,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,24.0,0.0,ukraine
+271,271,Reconnaissance Unmanned Aerial Vehicles,Leleka-100,Ukraine,36,0.0,0.0,10.0,0.0,0.0,0.0,1.0,0.0,25.0,0.0,ukraine
+272,272,Reconnaissance Unmanned Aerial Vehicles,Spaitech Sparrow,Ukraine,4,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+273,273,Reconnaissance Unmanned Aerial Vehicles,Spectator-M1,Ukraine,5,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,ukraine
+274,274,Reconnaissance Unmanned Aerial Vehicles,Dovbush T10,Ukraine,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+275,275,Reconnaissance Unmanned Aerial Vehicles,PD-1,Ukraine,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+276,276,Reconnaissance Unmanned Aerial Vehicles,UJ-22,Ukraine,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+277,277,Reconnaissance Unmanned Aerial Vehicles,ITEC Skif,Ukraine,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+278,278,Reconnaissance Unmanned Aerial Vehicles,Shark,Ukraine,7,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,ukraine
+279,279,Reconnaissance Unmanned Aerial Vehicles,Mara-2M,Ukraine,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+280,280,Reconnaissance Unmanned Aerial Vehicles,Chaklun,Ukraine,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+281,281,Reconnaissance Unmanned Aerial Vehicles,Orlik,the Czech Republic,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+282,282,Reconnaissance Unmanned Aerial Vehicles,Primoco One 150,the Czech Republic,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+283,283,Reconnaissance Unmanned Aerial Vehicles,FlyEye,Poland,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,ukraine
+284,284,Reconnaissance Unmanned Aerial Vehicles,Penguin C,Latvia,2,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+285,285,Reconnaissance Unmanned Aerial Vehicles,Poseidon H10,Cyprus,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+286,286,Reconnaissance Unmanned Aerial Vehicles,EOS-C VTOL,Estonia,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+287,287,Reconnaissance Unmanned Aerial Vehicles,Bayraktar Mini,Turkey,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+288,288,Reconnaissance Unmanned Aerial Vehicles,AeroVironment RQ-20 Puma,the United States,12,0.0,0.0,8.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,ukraine
+289,289,Reconnaissance Unmanned Aerial Vehicles,AeroVironment Quantix Recon UAV,the United States,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+290,290,Reconnaissance Unmanned Aerial Vehicles,Boeing Insitu ScanEagle 2,the United States,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+291,291,Reconnaissance Unmanned Aerial Vehicles,Malloy Aeronautics T150 cargo UAV,the United Kingdom,3,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+292,292,Reconnaissance Unmanned Aerial Vehicles,Unknown reconnaissance UAV,Ukraine,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+293,293,Naval Ships,Krivak III-class frigate,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+294,294,Naval Ships,Gyurza-M-class gunboat,Ukraine,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,ukraine
+295,295,Naval Ships,Gyurza-M-class gunboat,Ukraine,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+296,296,Naval Ships,Gyurza-M-class gunboat,Ukraine,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+297,297,Naval Ships,Gyurza-M-class gunboat,Ukraine,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+298,298,Naval Ships,Gyurza-M-class gunboat,Ukraine,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+299,299,Naval Ships,Island-class patrol boat,the United States,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,ukraine
+300,300,Naval Ships,Stenka-class patrol boat (Operated by the Sea Guard),the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,ukraine
+301,301,Naval Ships,Zhuk-class patrol boat (Sea Guard),the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+302,302,Naval Ships,Zhuk-class patrol boat (Sea Guard),the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+303,303,Naval Ships,Zhuk-class patrol boat (Sea Guard),the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+304,304,Naval Ships,Sorum-class seagoing tugboat,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+305,305,Naval Ships,Project 376 Yaroslavets-class general purpose tugboat,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+306,306,Naval Ships,Project 1258 Yevgenya-class minesweeper,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,ukraine
+307,307,Naval Ships,Pr.304 Amur-class command ship,Poland,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+308,308,Naval Ships,Project 58181 Centaur-class fast assault boat,Ukraine,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,ukraine
+309,309,Naval Ships,UMS-600 patrol boat (Sea Guard),Ukraine,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+310,310,Naval Ships,UMS-1000 patrol boat (Sea Guard),Ukraine,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+311,311,Naval Ships,UMS-1000 patrol boat (Sea Guard),Ukraine,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,ukraine
+312,312,Naval Ships,UMS-1000 patrol boat (Sea Guard),Ukraine,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+313,313,Naval Ships,UMS-1000 patrol boat (Sea Guard),Ukraine,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+314,314,Naval Ships,UMS-1000 patrol boat (Sea Guard),Ukraine,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+315,315,Naval Ships,Project 50030 Kalkan-class patrol boat (Sea Guard),Ukraine,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+316,316,Naval Ships,Project 50030 Kalkan-class patrol boat (Sea Guard),Ukraine,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+317,317,Naval Ships,Project 50030 Kalkan-class patrol boat (Sea Guard),Ukraine,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+318,318,Naval Ships,Project 50030 Kalkan-class patrol boat (Sea Guard),Ukraine,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+319,319,Naval Ships,Unknown patrol boat (Sea Guard),Ukraine,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+320,320,"Trucks, Vehicles, and Jeeps",KrAZ-214,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+321,321,"Trucks, Vehicles, and Jeeps",KrAZ-255B,the Soviet Union,16,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,13.0,0.0,ukraine
+322,322,"Trucks, Vehicles, and Jeeps",KrAZ-260,the Soviet Union,3,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+323,323,"Trucks, Vehicles, and Jeeps",KrAZ-6322,Ukraine,42,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,29.0,0.0,ukraine
+324,324,"Trucks, Vehicles, and Jeeps",KrAZ-6322 Raptor,Ukraine,8,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,ukraine
+325,325,"Trucks, Vehicles, and Jeeps",KrAZ-6446,Ukraine,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+326,326,"Trucks, Vehicles, and Jeeps",KrAZ-5233,Ukraine,34,0.0,0.0,17.0,0.0,1.0,0.0,1.0,0.0,15.0,0.0,ukraine
+327,327,"Trucks, Vehicles, and Jeeps",ATs-10-260 Fuel Tanker,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+328,328,"Trucks, Vehicles, and Jeeps",Bogdan-5316,Ukraine,9,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,8.0,0.0,ukraine
+329,329,"Trucks, Vehicles, and Jeeps",Bogdan-63172,Ukraine,30,2.0,0.0,3.0,0.0,2.0,0.0,0.0,0.0,23.0,0.0,ukraine
+330,330,"Trucks, Vehicles, and Jeeps",Bogdan-63172 'Kozak',Ukraine,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+331,331,"Trucks, Vehicles, and Jeeps",9T217 transloader (for 9K33 Osa),the Soviet Union,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,ukraine
+332,332,"Trucks, Vehicles, and Jeeps",GAZ-53,the Soviet Union,2,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+333,333,"Trucks, Vehicles, and Jeeps",GAZ-63,the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+334,334,"Trucks, Vehicles, and Jeeps",GAZ-66,the Soviet Union,103,1.0,0.0,28.0,0.0,2.0,2.0,2.0,0.0,68.0,0.0,ukraine
+335,335,"Trucks, Vehicles, and Jeeps",GAZ-66,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+336,336,"Trucks, Vehicles, and Jeeps",GAZ-66,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+337,337,"Trucks, Vehicles, and Jeeps",GAZ-66,the Soviet Union,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+338,338,"Trucks, Vehicles, and Jeeps",GAZ-66 tanker,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+339,339,"Trucks, Vehicles, and Jeeps",GAZ-3308,the Soviet Union,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+340,340,"Trucks, Vehicles, and Jeeps",GAZ-3308 tanker,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+341,341,"Trucks, Vehicles, and Jeeps",ZiL-130,the Soviet Union,7,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,ukraine
+342,342,"Trucks, Vehicles, and Jeeps",ZiL-130,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+343,343,"Trucks, Vehicles, and Jeeps",ZiL-130 tanker,the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+344,344,"Trucks, Vehicles, and Jeeps",ZiL-131,the Soviet Union,136,1.0,0.0,43.0,0.0,1.0,0.0,2.0,0.0,89.0,0.0,ukraine
+345,345,"Trucks, Vehicles, and Jeeps",ZiL-131,the Soviet Union,6,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,ukraine
+346,346,"Trucks, Vehicles, and Jeeps",ZiL-131,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+347,347,"Trucks, Vehicles, and Jeeps",ZiL-131 tanker,the Soviet Union,6,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,ukraine
+348,348,"Trucks, Vehicles, and Jeeps",ZiL-157,the Soviet Union,2,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+349,349,"Trucks, Vehicles, and Jeeps",ZiL-181,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+350,350,"Trucks, Vehicles, and Jeeps",ZiL-4331,the Soviet Union,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ukraine
+351,351,"Trucks, Vehicles, and Jeeps",Ural-375D,the Soviet Union,10,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,ukraine
+352,352,"Trucks, Vehicles, and Jeeps",Ural-4320,the Soviet Union,51,0.0,0.0,9.0,0.0,1.0,0.0,1.0,0.0,40.0,0.0,ukraine
+353,353,"Trucks, Vehicles, and Jeeps",Ural-4320,the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+354,354,"Trucks, Vehicles, and Jeeps",Ural tanker,the Soviet Union,15,0.0,0.0,7.0,0.0,2.0,0.0,0.0,0.0,6.0,0.0,ukraine
+355,355,"Trucks, Vehicles, and Jeeps",KamAZ 6x6,the Soviet Union,22,0.0,0.0,6.0,0.0,1.0,0.0,2.0,0.0,13.0,0.0,ukraine
+356,356,"Trucks, Vehicles, and Jeeps",KamAZ 6x6 tanker,the Soviet Union,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+357,357,"Trucks, Vehicles, and Jeeps",MAZ-537,the Soviet Union,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+358,358,"Trucks, Vehicles, and Jeeps",MAZ AC-8-500A Tanker,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+359,359,"Trucks, Vehicles, and Jeeps",MAZ-5336,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+360,360,"Trucks, Vehicles, and Jeeps",MAZ-5337 fuel tanker,the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+361,361,"Trucks, Vehicles, and Jeeps",MAZ TZ-500 tanker,the Soviet Union,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+362,362,"Trucks, Vehicles, and Jeeps",FMTV M1083A1P2,the United States,9,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,8.0,0.0,ukraine
+363,363,"Trucks, Vehicles, and Jeeps",Jelcz P882 D53,Poland,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+364,364,"Trucks, Vehicles, and Jeeps",Mercedes-Benz Unimog U1300L ambulance,Germany,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+365,365,"Trucks, Vehicles, and Jeeps",Pinzgauer Vector 718,the United Kingdom,3,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,ukraine
+366,366,"Trucks, Vehicles, and Jeeps",Land Rover Defender,the United Kingdom,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,ukraine
+367,367,"Trucks, Vehicles, and Jeeps",UAZ-469 jeep,the Soviet Union,13,0.0,0.0,6.0,0.0,0.0,2.0,0.0,0.0,5.0,0.0,ukraine
+368,368,"Trucks, Vehicles, and Jeeps",UAZ-31514,the Soviet Union,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+369,369,"Trucks, Vehicles, and Jeeps",UAZ-452 van,the Soviet Union,34,0.0,0.0,2.0,0.0,1.0,1.0,0.0,0.0,30.0,0.0,ukraine
+370,370,"Trucks, Vehicles, and Jeeps",Armoured Volkswagen Amarok pickup truck,Germany,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,ukraine
+371,371,"Trucks, Vehicles, and Jeeps",Bogdan-2251 ambulance pickup truck,Ukraine,16,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,ukraine
+372,372,"Trucks, Vehicles, and Jeeps",Armed pickup truck,Ukraine,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+373,373,"Trucks, Vehicles, and Jeeps",Armed pickup truck,Ukraine,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+374,374,"Trucks, Vehicles, and Jeeps",Armed pickup truck,Ukraine,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+375,375,"Trucks, Vehicles, and Jeeps",Armed tactical buggy,Ukraine,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+376,376,"Trucks, Vehicles, and Jeeps",Ford Ranger,the United States,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,ukraine
+377,377,"Trucks, Vehicles, and Jeeps",Peugeot P4,France,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+378,378,"Trucks, Vehicles, and Jeeps",DAF YAD 4442 NT,the Netherlands,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ukraine
+379,379,"Trucks, Vehicles, and Jeeps",Iveco Magirus 90-16 AW 4x4,Italy,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+380,380,"Trucks, Vehicles, and Jeeps",Iveco VM90,Italy,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+381,381,"Trucks, Vehicles, and Jeeps",Downgraded Mowag Eagle II,Switzerland,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+382,382,"Trucks, Vehicles, and Jeeps",Unknown truck,Ukraine,69,0.0,0.0,4.0,0.0,2.0,1.0,0.0,0.0,62.0,0.0,ukraine
+383,383,"Trucks, Vehicles, and Jeeps",Unknown truck,Ukraine,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ukraine
+384,384,"Trucks, Vehicles, and Jeeps",Unknown vehicle,Ukraine,41,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,41.0,0.0,ukraine

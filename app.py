@@ -38,12 +38,12 @@ app.layout = html.Div([
     html.Div(children=[dcc.Graph("bubble")], style={"width": "75%", "display": "inline-block"}),
     html.Hr(),
     html.H3(children="Bar and pie charts"),
-    html.Div(children=[dcc.Graph("pie")], style={"width": "75%", "display": "inline-block"}),
-    html.Div(children=[
-        html.H5(children="Loss type"),
-        dcc.Dropdown(axis_options, "losses_total", id="bar-pie-y")
-        ], style={"width": "20%", "float": "right", "display": "inline-block"}),
-    dcc.Graph("bar")
+    html.H5(children="Loss type"),
+    dcc.Dropdown(axis_options, "losses_total", id="bar-pie-y"),
+    html.Div(children=[dcc.Graph("pie_ukraine")], style={"width": "48%", "display": "inline-block"}),
+    html.Div(children=[dcc.Graph("pie_russia")], style={"width": "48%", "float": "right", "display": "inline-block"}),
+    html.Div(children=[dcc.Graph("bar_ukraine")], style={"width": "48%", "display": "inline-block"}),
+    html.Div(children=[dcc.Graph("bar_russia")], style={"width": "48%", "float": "right", "display": "inline-block"})
     ])
 
 @callback(Output("manufacturer", "options"), Input("equipment", "value"))
@@ -82,7 +82,6 @@ def update_bubble(selected_model, selected_equipment, selected_manufacturer, x, 
     for item in [selected_equipment, selected_model, selected_manufacturer, x, y, size]:
         if item is None:
             return px.scatter(df, x=x, y=y, size=size, color="lost_by")
-    #print([x, y, size])
     filtered = df[df["equipment"].isin(selected_equipment)]
     filtered = filtered[filtered["model"].isin(selected_model)]
     filtered = filtered[filtered["manufacturer"].isin(selected_manufacturer)]
@@ -90,37 +89,76 @@ def update_bubble(selected_model, selected_equipment, selected_manufacturer, x, 
     bubble.update_layout(transition_duration=500)
     return bubble
 
-@callback(Output("pie", "figure"),
+@callback(Output("pie_ukraine", "figure"),
           Input("model", "value"),
           Input("equipment", "value"),
           Input("manufacturer", "value"),
           Input("bar-pie-y", "value"))
-def update_pie(selected_model, selected_equipment, selected_manufacturer, y):
+def update_pie_ukraine(selected_model, selected_equipment, selected_manufacturer, y):
     for item in [selected_equipment, selected_model, selected_manufacturer, y]:
         if item is None:
-            return px.pie(df, values=y, names="manufacturer", title="Losses by manufacturer")
+            return px.pie(df[df["lost_by"]=="ukraine"], values=y, names="manufacturer", title="Ukrainian losses by manufacturer")
     filtered = df[df["equipment"].isin(selected_equipment)]
     filtered = filtered[filtered["model"].isin(selected_model)]
     filtered = filtered[filtered["manufacturer"].isin(selected_manufacturer)]
-    pie = px.pie(filtered, values=y, names="manufacturer", title="Losses by manufacturer")
+    filtered = filtered[filtered["lost_by"]=="ukraine"]
+    pie = px.pie(filtered, values=y, names="manufacturer", title="Ukrainian losses by manufacturer")
     pie.update_layout(transition_duration=500)
     return pie
 
-@callback(Output("bar", "figure"),
+@callback(Output("pie_russia", "figure"),
           Input("model", "value"),
           Input("equipment", "value"),
           Input("manufacturer", "value"),
           Input("bar-pie-y", "value"))
-def update_bar(selected_model, selected_equipment, selected_manufacturer, y):
+def update_pie_russia(selected_model, selected_equipment, selected_manufacturer, y):
     for item in [selected_equipment, selected_model, selected_manufacturer, y]:
         if item is None:
-            return px.bar(df, x="model", y=y, title="Losses by model")
+            return px.pie(df[df["lost_by"]=="russia"], values=y, names="manufacturer", title="Russian losses by manufacturer")
     filtered = df[df["equipment"].isin(selected_equipment)]
     filtered = filtered[filtered["model"].isin(selected_model)]
     filtered = filtered[filtered["manufacturer"].isin(selected_manufacturer)]
+    filtered = filtered[filtered["lost_by"]=="russia"]
+    pie = px.pie(filtered, values=y, names="manufacturer", title="Russian losses by manufacturer")
+    pie.update_layout(transition_duration=500)
+    return pie
+
+@callback(Output("bar_ukraine", "figure"),
+          Input("model", "value"),
+          Input("equipment", "value"),
+          Input("manufacturer", "value"),
+          Input("bar-pie-y", "value"))
+def update_bar_ukraine(selected_model, selected_equipment, selected_manufacturer, y):
+    for item in [selected_equipment, selected_model, selected_manufacturer, y]:
+        if item is None:
+            return px.bar(df[df["lost_by"]=="ukraine"], x="model", y=y, title="Ukrainian losses by model")
+    filtered = df[df["equipment"].isin(selected_equipment)]
+    filtered = filtered[filtered["model"].isin(selected_model)]
+    filtered = filtered[filtered["manufacturer"].isin(selected_manufacturer)]
+    filtered = filtered[filtered["lost_by"]=="ukraine"]
     filtered = filtered[filtered[y]>0]
-    bar = px.bar(filtered, x="model", y=y, color="lost_by", title="Losses by model")
+    bar = px.bar(filtered, x="model", y=y, title="Ukrainian losses by model")
     bar.update_layout(transition_duration=500)
+    bar.update_xaxes(categoryorder="total ascending")
+    return bar
+
+@callback(Output("bar_russia", "figure"),
+          Input("model", "value"),
+          Input("equipment", "value"),
+          Input("manufacturer", "value"),
+          Input("bar-pie-y", "value"))
+def update_bar_russia(selected_model, selected_equipment, selected_manufacturer, y):
+    for item in [selected_equipment, selected_model, selected_manufacturer, y]:
+        if item is None:
+            return px.bar(df[df["lost_by"]=="russia"], x="model", y=y, title="Russian losses by model")
+    filtered = df[df["equipment"].isin(selected_equipment)]
+    filtered = filtered[filtered["model"].isin(selected_model)]
+    filtered = filtered[filtered["manufacturer"].isin(selected_manufacturer)]
+    filtered = filtered[filtered["lost_by"]=="russia"]
+    filtered = filtered[filtered[y]>0]
+    bar = px.bar(filtered, x="model", y=y, title="Russian losses by model")
+    bar.update_layout(transition_duration=500)
+    bar.update_xaxes(categoryorder="total ascending")
     return bar
 
 if __name__ == "__main__":
